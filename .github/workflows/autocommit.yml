@@ -2,8 +2,8 @@ name: Auto Commit LeetCode Solutions
 
 on:
   schedule:
-    - cron: '0 23 * * *'  # каждый день в 18:00 UTC (можно поменять)
-  workflow_dispatch:      # запуск вручную по кнопке
+    - cron: '0 23 * * *'  # каждый день в 23:00 UTC
+  workflow_dispatch:
 
 jobs:
   auto-commit:
@@ -12,19 +12,20 @@ jobs:
     steps:
     - name: Checkout repo
       uses: actions/checkout@v3
+      with:
+        persist-credentials: false  # 🛑 отключаем встроенные креды
 
-    - name: Configure Git
+    - name: Set up Git
       run: |
-        git config user.name "Arty"
-        git config user.email "artyomlord777@gmail.com"
+        git config --global user.name "Arty"
+        git config --global user.email "artyomlord777@gmail.com"
 
-    - name: Commit and Push changes
+    - name: Commit & Push
       env:
         TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config pull.rebase true
-        git pull origin main || true
+        git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git
+        git pull origin main --rebase || true
         git add .
         git diff-index --quiet HEAD || git commit -m "🤖 Auto update LeetCode solutions"
-        git push --force https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git HEAD:main
-    
+        git push origin HEAD:main --force
