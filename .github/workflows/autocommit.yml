@@ -1,0 +1,26 @@
+name: Auto Commit LeetCode Solutions
+
+on:
+  schedule:
+    - cron: '0 23 * * *'  # каждый день в 18:00 UTC (можно поменять)
+  workflow_dispatch:      # запуск вручную по кнопке
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Configure Git
+      run: |
+        git config user.name "Arty"
+        git config user.email "artyomlord777@gmail.com"
+
+    - name: Commit and Push changes
+      run: |
+        git add .
+        git diff-index --quiet HEAD || git commit -m "🤖 Auto update LeetCode solutions"
+        git push
+
