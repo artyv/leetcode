@@ -1,0 +1,13 @@
+class Solution:
+    def maxScore(self, s: str) -> int:
+        ones = s.count('1')
+        zeros = 0
+        score_max = 0
+        for i in range(len(s)):
+            if s[i] == '0':
+                zeros += 1
+            else:
+                ones -= 1
+            score_max = max(score_max, zeros + ones)
+
+        return score_max
