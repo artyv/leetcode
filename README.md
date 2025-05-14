@@ -1,9 +1,7 @@
 # LeetCode Fastest 3 Solutions per Problem 🏎️
 
 | # | Title | Folder |
-
 |---|-------|--------|
-
 | 1 | 132 Pattern | [Link](./132 Pattern) |
 | 2 | 2 Keys Keyboard | [Link](./2 Keys Keyboard) |
 | 3 | 3sum | [Link](./3sum) |
