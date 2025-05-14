@@ -1,4 +1,5 @@
 import os
+import urllib.parse
 
 def slugify(title):
     return title.lower().replace(' ', '-').replace("'", '').replace(',', '')
@@ -17,8 +18,9 @@ def generate_readme(base_path='.'):
     for idx, folder in enumerate(folders, 1):
         title = folder.replace('_', ' ')
         slug = slugify(title)
+        encoded_folder = urllib.parse.quote(folder)
         leetcode_url = f'https://leetcode.com/problems/{slug}/'
-        folder_link = f'[📁 {folder}](./{folder})'
+        folder_link = f'[📁 {title}](./{encoded_folder})'
         leetcode_link = f'[🔗 LeetCode]({leetcode_url})'
         readme_lines.append(f'| {idx} | {title} | {folder_link} | {leetcode_link} |')
 
