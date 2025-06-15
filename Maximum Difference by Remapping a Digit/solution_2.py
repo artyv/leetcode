@@ -3,9 +3,8 @@ class Solution:
         s = str(num)
         max_ind = -1
         for i in range(len(s)):
-            if s[i] != '9':
+            if s[i] != '9' and max_ind == -1:
                 max_ind = i
-                break
         
         xmin = int(s.replace(s[0], '0'))
         xmax = int(s.replace(s[max_ind], '9'))
