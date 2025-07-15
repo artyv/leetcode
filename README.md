@@ -587,14 +587,15 @@
 | 583 | Valid Palindrome | [📁 Valid Palindrome](./Valid%20Palindrome) | [🔗 LeetCode](https://leetcode.com/problems/valid-palindrome/) |
 | 584 | Valid Parentheses | [📁 Valid Parentheses](./Valid%20Parentheses) | [🔗 LeetCode](https://leetcode.com/problems/valid-parentheses/) |
 | 585 | Valid Sudoku | [📁 Valid Sudoku](./Valid%20Sudoku) | [🔗 LeetCode](https://leetcode.com/problems/valid-sudoku/) |
-| 586 | Walking Robot Simulation | [📁 Walking Robot Simulation](./Walking%20Robot%20Simulation) | [🔗 LeetCode](https://leetcode.com/problems/walking-robot-simulation/) |
-| 587 | Water Bottles | [📁 Water Bottles](./Water%20Bottles) | [🔗 LeetCode](https://leetcode.com/problems/water-bottles/) |
-| 588 | Word Break | [📁 Word Break](./Word%20Break) | [🔗 LeetCode](https://leetcode.com/problems/word-break/) |
-| 589 | Word Break Ii | [📁 Word Break Ii](./Word%20Break%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/word-break-ii/) |
-| 590 | Word Pattern | [📁 Word Pattern](./Word%20Pattern) | [🔗 LeetCode](https://leetcode.com/problems/word-pattern/) |
-| 591 | Word Subsets | [📁 Word Subsets](./Word%20Subsets) | [🔗 LeetCode](https://leetcode.com/problems/word-subsets/) |
-| 592 | Xor Queries Of A Subarray | [📁 Xor Queries Of A Subarray](./Xor%20Queries%20Of%20A%20Subarray) | [🔗 LeetCode](https://leetcode.com/problems/xor-queries-of-a-subarray/) |
-| 593 | Zero Array Transformation I | [📁 Zero Array Transformation I](./Zero%20Array%20Transformation%20I) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-i/) |
-| 594 | Zero Array Transformation III | [📁 Zero Array Transformation III](./Zero%20Array%20Transformation%20III) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-iii/) |
-| 595 | Zero Array Transformation Ii | [📁 Zero Array Transformation Ii](./Zero%20Array%20Transformation%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-ii/) |
-| 596 | Zigzag Conversion | [📁 Zigzag Conversion](./Zigzag%20Conversion) | [🔗 LeetCode](https://leetcode.com/problems/zigzag-conversion/) |
+| 586 | Valid Word | [📁 Valid Word](./Valid%20Word) | [🔗 LeetCode](https://leetcode.com/problems/valid-word/) |
+| 587 | Walking Robot Simulation | [📁 Walking Robot Simulation](./Walking%20Robot%20Simulation) | [🔗 LeetCode](https://leetcode.com/problems/walking-robot-simulation/) |
+| 588 | Water Bottles | [📁 Water Bottles](./Water%20Bottles) | [🔗 LeetCode](https://leetcode.com/problems/water-bottles/) |
+| 589 | Word Break | [📁 Word Break](./Word%20Break) | [🔗 LeetCode](https://leetcode.com/problems/word-break/) |
+| 590 | Word Break Ii | [📁 Word Break Ii](./Word%20Break%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/word-break-ii/) |
+| 591 | Word Pattern | [📁 Word Pattern](./Word%20Pattern) | [🔗 LeetCode](https://leetcode.com/problems/word-pattern/) |
+| 592 | Word Subsets | [📁 Word Subsets](./Word%20Subsets) | [🔗 LeetCode](https://leetcode.com/problems/word-subsets/) |
+| 593 | Xor Queries Of A Subarray | [📁 Xor Queries Of A Subarray](./Xor%20Queries%20Of%20A%20Subarray) | [🔗 LeetCode](https://leetcode.com/problems/xor-queries-of-a-subarray/) |
+| 594 | Zero Array Transformation I | [📁 Zero Array Transformation I](./Zero%20Array%20Transformation%20I) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-i/) |
+| 595 | Zero Array Transformation III | [📁 Zero Array Transformation III](./Zero%20Array%20Transformation%20III) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-iii/) |
+| 596 | Zero Array Transformation Ii | [📁 Zero Array Transformation Ii](./Zero%20Array%20Transformation%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-ii/) |
+| 597 | Zigzag Conversion | [📁 Zigzag Conversion](./Zigzag%20Conversion) | [🔗 LeetCode](https://leetcode.com/problems/zigzag-conversion/) |
