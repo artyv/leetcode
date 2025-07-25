@@ -338,265 +338,266 @@
 | 334 | Maximum Sum Of Distinct Subarrays With Length K | [📁 Maximum Sum Of Distinct Subarrays With Length K](./Maximum%20Sum%20Of%20Distinct%20Subarrays%20With%20Length%20K) | [🔗 LeetCode](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) |
 | 335 | Maximum Swap | [📁 Maximum Swap](./Maximum%20Swap) | [🔗 LeetCode](https://leetcode.com/problems/maximum-swap/) |
 | 336 | Maximum Total Importance Of Roads | [📁 Maximum Total Importance Of Roads](./Maximum%20Total%20Importance%20Of%20Roads) | [🔗 LeetCode](https://leetcode.com/problems/maximum-total-importance-of-roads/) |
-| 337 | Maximum Value Of An Ordered Triplet I | [📁 Maximum Value Of An Ordered Triplet I](./Maximum%20Value%20Of%20An%20Ordered%20Triplet%20I) | [🔗 LeetCode](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) |
-| 338 | Maximum Value Of An Ordered Triplet Ii | [📁 Maximum Value Of An Ordered Triplet Ii](./Maximum%20Value%20Of%20An%20Ordered%20Triplet%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) |
-| 339 | Maximum Width Ramp | [📁 Maximum Width Ramp](./Maximum%20Width%20Ramp) | [🔗 LeetCode](https://leetcode.com/problems/maximum-width-ramp/) |
-| 340 | Maximum Xor For Each Query | [📁 Maximum Xor For Each Query](./Maximum%20Xor%20For%20Each%20Query) | [🔗 LeetCode](https://leetcode.com/problems/maximum-xor-for-each-query/) |
-| 341 | Merge Intervals | [📁 Merge Intervals](./Merge%20Intervals) | [🔗 LeetCode](https://leetcode.com/problems/merge-intervals/) |
-| 342 | Merge Nodes In Between Zeros | [📁 Merge Nodes In Between Zeros](./Merge%20Nodes%20In%20Between%20Zeros) | [🔗 LeetCode](https://leetcode.com/problems/merge-nodes-in-between-zeros/) |
-| 343 | Merge Sorted Array | [📁 Merge Sorted Array](./Merge%20Sorted%20Array) | [🔗 LeetCode](https://leetcode.com/problems/merge-sorted-array/) |
-| 344 | Merge Two 2d Arrays By Summing Values | [📁 Merge Two 2d Arrays By Summing Values](./Merge%20Two%202d%20Arrays%20By%20Summing%20Values) | [🔗 LeetCode](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) |
-| 345 | Merge Two Sorted Lists | [📁 Merge Two Sorted Lists](./Merge%20Two%20Sorted%20Lists) | [🔗 LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
-| 346 | Min Stack | [📁 Min Stack](./Min%20Stack) | [🔗 LeetCode](https://leetcode.com/problems/min-stack/) |
-| 347 | Minimize Xor | [📁 Minimize Xor](./Minimize%20Xor) | [🔗 LeetCode](https://leetcode.com/problems/minimize-xor/) |
-| 348 | Minimize the Maximum Difference of Pairs | [📁 Minimize the Maximum Difference of Pairs](./Minimize%20the%20Maximum%20Difference%20of%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) |
-| 349 | Minimized Maximum Of Products Distributed To Any Store | [📁 Minimized Maximum Of Products Distributed To Any Store](./Minimized%20Maximum%20Of%20Products%20Distributed%20To%20Any%20Store) | [🔗 LeetCode](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) |
-| 350 | Minimum Absolute Difference In Bst | [📁 Minimum Absolute Difference In Bst](./Minimum%20Absolute%20Difference%20In%20Bst) | [🔗 LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) |
-| 351 | Minimum Add To Make Parentheses Valid | [📁 Minimum Add To Make Parentheses Valid](./Minimum%20Add%20To%20Make%20Parentheses%20Valid) | [🔗 LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
-| 352 | Minimum Array End | [📁 Minimum Array End](./Minimum%20Array%20End) | [🔗 LeetCode](https://leetcode.com/problems/minimum-array-end/) |
-| 353 | Minimum Bit Flips To Convert Number | [📁 Minimum Bit Flips To Convert Number](./Minimum%20Bit%20Flips%20To%20Convert%20Number) | [🔗 LeetCode](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) |
-| 354 | Minimum Cost For Tickets | [📁 Minimum Cost For Tickets](./Minimum%20Cost%20For%20Tickets) | [🔗 LeetCode](https://leetcode.com/problems/minimum-cost-for-tickets/) |
-| 355 | Minimum Cost To Convert String I | [📁 Minimum Cost To Convert String I](./Minimum%20Cost%20To%20Convert%20String%20I) | [🔗 LeetCode](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) |
-| 356 | Minimum Cost To Make At Least One Valid Path In A Grid | [📁 Minimum Cost To Make At Least One Valid Path In A Grid](./Minimum%20Cost%20To%20Make%20At%20Least%20One%20Valid%20Path%20In%20A%20Grid) | [🔗 LeetCode](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) |
-| 357 | Minimum Cost Walk In Weighted Graph | [📁 Minimum Cost Walk In Weighted Graph](./Minimum%20Cost%20Walk%20In%20Weighted%20Graph) | [🔗 LeetCode](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) |
-| 358 | Minimum Deletions To Make String Balanced | [📁 Minimum Deletions To Make String Balanced](./Minimum%20Deletions%20To%20Make%20String%20Balanced) | [🔗 LeetCode](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) |
-| 359 | Minimum Deletions to Make String K-Special | [📁 Minimum Deletions to Make String K-Special](./Minimum%20Deletions%20to%20Make%20String%20K-Special) | [🔗 LeetCode](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/) |
-| 360 | Minimum Difference Between Largest And Smallest Value In Three Moves | [📁 Minimum Difference Between Largest And Smallest Value In Three Moves](./Minimum%20Difference%20Between%20Largest%20And%20Smallest%20Value%20In%20Three%20Moves) | [🔗 LeetCode](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) |
-| 361 | Minimum Domino Rotations For Equal Row | [📁 Minimum Domino Rotations For Equal Row](./Minimum%20Domino%20Rotations%20For%20Equal%20Row) | [🔗 LeetCode](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) |
-| 362 | Minimum Equal Sum Of Two Arrays After Replacing Zeros | [📁 Minimum Equal Sum Of Two Arrays After Replacing Zeros](./Minimum%20Equal%20Sum%20Of%20Two%20Arrays%20After%20Replacing%20Zeros) | [🔗 LeetCode](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) |
-| 363 | Minimum Increment To Make Array Unique | [📁 Minimum Increment To Make Array Unique](./Minimum%20Increment%20To%20Make%20Array%20Unique) | [🔗 LeetCode](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) |
-| 364 | Minimum Index Of A Valid Split | [📁 Minimum Index Of A Valid Split](./Minimum%20Index%20Of%20A%20Valid%20Split) | [🔗 LeetCode](https://leetcode.com/problems/minimum-index-of-a-valid-split/) |
-| 365 | Minimum Length Of String After Operations | [📁 Minimum Length Of String After Operations](./Minimum%20Length%20Of%20String%20After%20Operations) | [🔗 LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-operations/) |
-| 366 | Minimum Limit Of Balls In A Bag | [📁 Minimum Limit Of Balls In A Bag](./Minimum%20Limit%20Of%20Balls%20In%20A%20Bag) | [🔗 LeetCode](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) |
-| 367 | Minimum Number Of Arrows To Burst Balloons | [📁 Minimum Number Of Arrows To Burst Balloons](./Minimum%20Number%20Of%20Arrows%20To%20Burst%20Balloons) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |
-| 368 | Minimum Number Of Changes To Make Binary String Beautiful | [📁 Minimum Number Of Changes To Make Binary String Beautiful](./Minimum%20Number%20Of%20Changes%20To%20Make%20Binary%20String%20Beautiful) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) |
-| 369 | Minimum Number Of Days To Disconnect Island | [📁 Minimum Number Of Days To Disconnect Island](./Minimum%20Number%20Of%20Days%20To%20Disconnect%20Island) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) |
-| 370 | Minimum Number Of Days To Make M Bouquets | [📁 Minimum Number Of Days To Make M Bouquets](./Minimum%20Number%20Of%20Days%20To%20Make%20M%20Bouquets) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |
-| 371 | Minimum Number Of K Consecutive Bit Flips | [📁 Minimum Number Of K Consecutive Bit Flips](./Minimum%20Number%20Of%20K%20Consecutive%20Bit%20Flips) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) |
-| 372 | Minimum Number Of Moves To Seat Everyone | [📁 Minimum Number Of Moves To Seat Everyone](./Minimum%20Number%20Of%20Moves%20To%20Seat%20Everyone) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) |
-| 373 | Minimum Number Of Operations To Make Elements In Array Distinct | [📁 Minimum Number Of Operations To Make Elements In Array Distinct](./Minimum%20Number%20Of%20Operations%20To%20Make%20Elements%20In%20Array%20Distinct) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) |
-| 374 | Minimum Number Of Operations To Move All Balls To Each Box | [📁 Minimum Number Of Operations To Move All Balls To Each Box](./Minimum%20Number%20Of%20Operations%20To%20Move%20All%20Balls%20To%20Each%20Box) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |
-| 375 | Minimum Number Of Operations To Sort A Binary Tree By Level | [📁 Minimum Number Of Operations To Sort A Binary Tree By Level](./Minimum%20Number%20Of%20Operations%20To%20Sort%20A%20Binary%20Tree%20By%20Level) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) |
-| 376 | Minimum Number Of Pushes To Type Word Ii | [📁 Minimum Number Of Pushes To Type Word Ii](./Minimum%20Number%20Of%20Pushes%20To%20Type%20Word%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) |
-| 377 | Minimum Number Of Removals To Make Mountain Array | [📁 Minimum Number Of Removals To Make Mountain Array](./Minimum%20Number%20Of%20Removals%20To%20Make%20Mountain%20Array) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) |
-| 378 | Minimum Number Of Swaps To Make The String Balanced | [📁 Minimum Number Of Swaps To Make The String Balanced](./Minimum%20Number%20Of%20Swaps%20To%20Make%20The%20String%20Balanced) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) |
-| 379 | Minimum Obstacle Removal To Reach Corner | [📁 Minimum Obstacle Removal To Reach Corner](./Minimum%20Obstacle%20Removal%20To%20Reach%20Corner) | [🔗 LeetCode](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) |
-| 380 | Minimum Operations To Exceed Threshold Value Ii | [📁 Minimum Operations To Exceed Threshold Value Ii](./Minimum%20Operations%20To%20Exceed%20Threshold%20Value%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) |
-| 381 | Minimum Operations To Make A Uni Value Grid | [📁 Minimum Operations To Make A Uni Value Grid](./Minimum%20Operations%20To%20Make%20A%20Uni%20Value%20Grid) | [🔗 LeetCode](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) |
-| 382 | Minimum Operations To Make Array Values Equal To K | [📁 Minimum Operations To Make Array Values Equal To K](./Minimum%20Operations%20To%20Make%20Array%20Values%20Equal%20To%20K) | [🔗 LeetCode](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) |
-| 383 | Minimum Operations To Make Binary Array Elements Equal To One I | [📁 Minimum Operations To Make Binary Array Elements Equal To One I](./Minimum%20Operations%20To%20Make%20Binary%20Array%20Elements%20Equal%20To%20One%20I) | [🔗 LeetCode](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) |
-| 384 | Minimum Operations To Make The Array Increasing | [📁 Minimum Operations To Make The Array Increasing](./Minimum%20Operations%20To%20Make%20The%20Array%20Increasing) | [🔗 LeetCode](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) |
-| 385 | Minimum Path Sum | [📁 Minimum Path Sum](./Minimum%20Path%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/minimum-path-sum/) |
-| 386 | Minimum Recolors To Get K Consecutive Black Blocks | [📁 Minimum Recolors To Get K Consecutive Black Blocks](./Minimum%20Recolors%20To%20Get%20K%20Consecutive%20Black%20Blocks) | [🔗 LeetCode](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) |
-| 387 | Minimum Size Subarray Sum | [📁 Minimum Size Subarray Sum](./Minimum%20Size%20Subarray%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
-| 388 | Minimum String Length After Removing Substrings | [📁 Minimum String Length After Removing Substrings](./Minimum%20String%20Length%20After%20Removing%20Substrings) | [🔗 LeetCode](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) |
-| 389 | Minimum Swaps To Group All 1s Together Ii | [📁 Minimum Swaps To Group All 1s Together Ii](./Minimum%20Swaps%20To%20Group%20All%201s%20Together%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) |
-| 390 | Minimum Time Difference | [📁 Minimum Time Difference](./Minimum%20Time%20Difference) | [🔗 LeetCode](https://leetcode.com/problems/minimum-time-difference/) |
-| 391 | Minimum Time To Repair Cars | [📁 Minimum Time To Repair Cars](./Minimum%20Time%20To%20Repair%20Cars) | [🔗 LeetCode](https://leetcode.com/problems/minimum-time-to-repair-cars/) |
-| 392 | Minimum Time To Visit A Cell In A Grid | [📁 Minimum Time To Visit A Cell In A Grid](./Minimum%20Time%20To%20Visit%20A%20Cell%20In%20A%20Grid) | [🔗 LeetCode](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) |
-| 393 | Minimum Total Distance Traveled | [📁 Minimum Total Distance Traveled](./Minimum%20Total%20Distance%20Traveled) | [🔗 LeetCode](https://leetcode.com/problems/minimum-total-distance-traveled/) |
-| 394 | Minimum Window Substring | [📁 Minimum Window Substring](./Minimum%20Window%20Substring) | [🔗 LeetCode](https://leetcode.com/problems/minimum-window-substring/) |
-| 395 | Modify Columns | [📁 Modify Columns](./Modify%20Columns) | [🔗 LeetCode](https://leetcode.com/problems/modify-columns/) |
-| 396 | Modify Graph Edge Weights | [📁 Modify Graph Edge Weights](./Modify%20Graph%20Edge%20Weights) | [🔗 LeetCode](https://leetcode.com/problems/modify-graph-edge-weights/) |
-| 397 | Monthly Transactions I | [📁 Monthly Transactions I](./Monthly%20Transactions%20I) | [🔗 LeetCode](https://leetcode.com/problems/monthly-transactions-i/) |
-| 398 | Most Beautiful Item For Each Query | [📁 Most Beautiful Item For Each Query](./Most%20Beautiful%20Item%20For%20Each%20Query) | [🔗 LeetCode](https://leetcode.com/problems/most-beautiful-item-for-each-query/) |
-| 399 | Most Profit Assigning Work | [📁 Most Profit Assigning Work](./Most%20Profit%20Assigning%20Work) | [🔗 LeetCode](https://leetcode.com/problems/most-profit-assigning-work/) |
-| 400 | Most Profitable Path In A Tree | [📁 Most Profitable Path In A Tree](./Most%20Profitable%20Path%20In%20A%20Tree) | [🔗 LeetCode](https://leetcode.com/problems/most-profitable-path-in-a-tree/) |
-| 401 | Most Stones Removed With Same Row Or Column | [📁 Most Stones Removed With Same Row Or Column](./Most%20Stones%20Removed%20With%20Same%20Row%20Or%20Column) | [🔗 LeetCode](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) |
-| 402 | Move Pieces To Obtain A String | [📁 Move Pieces To Obtain A String](./Move%20Pieces%20To%20Obtain%20A%20String) | [🔗 LeetCode](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) |
-| 403 | Movie Rating | [📁 Movie Rating](./Movie%20Rating) | [🔗 LeetCode](https://leetcode.com/problems/movie-rating/) |
-| 404 | Multiply Strings | [📁 Multiply Strings](./Multiply%20Strings) | [🔗 LeetCode](https://leetcode.com/problems/multiply-strings/) |
-| 405 | My Calendar I | [📁 My Calendar I](./My%20Calendar%20I) | [🔗 LeetCode](https://leetcode.com/problems/my-calendar-i/) |
-| 406 | My Calendar Ii | [📁 My Calendar Ii](./My%20Calendar%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/my-calendar-ii/) |
-| 407 | N Ary Tree Postorder Traversal | [📁 N Ary Tree Postorder Traversal](./N%20Ary%20Tree%20Postorder%20Traversal) | [🔗 LeetCode](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
-| 408 | Neighboring Bitwise Xor | [📁 Neighboring Bitwise Xor](./Neighboring%20Bitwise%20Xor) | [🔗 LeetCode](https://leetcode.com/problems/neighboring-bitwise-xor/) |
-| 409 | Next Permutation | [📁 Next Permutation](./Next%20Permutation) | [🔗 LeetCode](https://leetcode.com/problems/next-permutation/) |
-| 410 | Not Boring Movies | [📁 Not Boring Movies](./Not%20Boring%20Movies) | [🔗 LeetCode](https://leetcode.com/problems/not-boring-movies/) |
-| 411 | Nth Highest Salary | [📁 Nth Highest Salary](./Nth%20Highest%20Salary) | [🔗 LeetCode](https://leetcode.com/problems/nth-highest-salary/) |
-| 412 | Number Complement | [📁 Number Complement](./Number%20Complement) | [🔗 LeetCode](https://leetcode.com/problems/number-complement/) |
-| 413 | Number Of 1 Bits | [📁 Number Of 1 Bits](./Number%20Of%201%20Bits) | [🔗 LeetCode](https://leetcode.com/problems/number-of-1-bits/) |
-| 414 | Number Of Atoms | [📁 Number Of Atoms](./Number%20Of%20Atoms) | [🔗 LeetCode](https://leetcode.com/problems/number-of-atoms/) |
-| 415 | Number Of Equivalent Domino Pairs | [📁 Number Of Equivalent Domino Pairs](./Number%20Of%20Equivalent%20Domino%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) |
-| 416 | Number Of Good Leaf Nodes Pairs | [📁 Number Of Good Leaf Nodes Pairs](./Number%20Of%20Good%20Leaf%20Nodes%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) |
-| 417 | Number Of Good Pairs | [📁 Number Of Good Pairs](./Number%20Of%20Good%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/number-of-good-pairs/) |
-| 418 | Number Of Senior Citizens | [📁 Number Of Senior Citizens](./Number%20Of%20Senior%20Citizens) | [🔗 LeetCode](https://leetcode.com/problems/number-of-senior-citizens/) |
-| 419 | Number Of Steps To Reduce A Number In Binary Representation To One | [📁 Number Of Steps To Reduce A Number In Binary Representation To One](./Number%20Of%20Steps%20To%20Reduce%20A%20Number%20In%20Binary%20Representation%20To%20One) | [🔗 LeetCode](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) |
-| 420 | Number Of Sub Arrays With Odd Sum | [📁 Number Of Sub Arrays With Odd Sum](./Number%20Of%20Sub%20Arrays%20With%20Odd%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) |
-| 421 | Number Of Substrings Containing All Three Characters | [📁 Number Of Substrings Containing All Three Characters](./Number%20Of%20Substrings%20Containing%20All%20Three%20Characters) | [🔗 LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) |
-| 422 | Number Of Unique Subjects Taught By Each Teacher | [📁 Number Of Unique Subjects Taught By Each Teacher](./Number%20Of%20Unique%20Subjects%20Taught%20By%20Each%20Teacher) | [🔗 LeetCode](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) |
-| 423 | Number Of Ways To Arrive At Destination | [📁 Number Of Ways To Arrive At Destination](./Number%20Of%20Ways%20To%20Arrive%20At%20Destination) | [🔗 LeetCode](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) |
-| 424 | Number Of Ways To Form A Target String Given A Dictionary | [📁 Number Of Ways To Form A Target String Given A Dictionary](./Number%20Of%20Ways%20To%20Form%20A%20Target%20String%20Given%20A%20Dictionary) | [🔗 LeetCode](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) |
-| 425 | Number Of Ways To Split Array | [📁 Number Of Ways To Split Array](./Number%20Of%20Ways%20To%20Split%20Array) | [🔗 LeetCode](https://leetcode.com/problems/number-of-ways-to-split-array/) |
-| 426 | Number of Subsequences That Satisfy the Given Sum Condition | [📁 Number of Subsequences That Satisfy the Given Sum Condition](./Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition) | [🔗 LeetCode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
-| 427 | Painting a Grid With Three Different Colors | [📁 Painting a Grid With Three Different Colors](./Painting%20a%20Grid%20With%20Three%20Different%20Colors) | [🔗 LeetCode](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) |
-| 428 | Palindrome Number | [📁 Palindrome Number](./Palindrome%20Number) | [🔗 LeetCode](https://leetcode.com/problems/palindrome-number/) |
-| 429 | Parsing A Boolean Expression | [📁 Parsing A Boolean Expression](./Parsing%20A%20Boolean%20Expression) | [🔗 LeetCode](https://leetcode.com/problems/parsing-a-boolean-expression/) |
-| 430 | Partition Array According To Given Pivot | [📁 Partition Array According To Given Pivot](./Partition%20Array%20According%20To%20Given%20Pivot) | [🔗 LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) |
-| 431 | Partition Array Such That Maximum Difference Is K | [📁 Partition Array Such That Maximum Difference Is K](./Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K) | [🔗 LeetCode](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) |
-| 432 | Partition Equal Subset Sum | [📁 Partition Equal Subset Sum](./Partition%20Equal%20Subset%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/) |
-| 433 | Partition Labels | [📁 Partition Labels](./Partition%20Labels) | [🔗 LeetCode](https://leetcode.com/problems/partition-labels/) |
-| 434 | Partition List | [📁 Partition List](./Partition%20List) | [🔗 LeetCode](https://leetcode.com/problems/partition-list/) |
-| 435 | Pass The Pillow | [📁 Pass The Pillow](./Pass%20The%20Pillow) | [🔗 LeetCode](https://leetcode.com/problems/pass-the-pillow/) |
-| 436 | Patching Array | [📁 Patching Array](./Patching%20Array) | [🔗 LeetCode](https://leetcode.com/problems/patching-array/) |
-| 437 | Path With Maximum Probability | [📁 Path With Maximum Probability](./Path%20With%20Maximum%20Probability) | [🔗 LeetCode](https://leetcode.com/problems/path-with-maximum-probability/) |
-| 438 | Patients With A Condition | [📁 Patients With A Condition](./Patients%20With%20A%20Condition) | [🔗 LeetCode](https://leetcode.com/problems/patients-with-a-condition/) |
-| 439 | Percentage Of Users Attended A Contest | [📁 Percentage Of Users Attended A Contest](./Percentage%20Of%20Users%20Attended%20A%20Contest) | [🔗 LeetCode](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) |
-| 440 | Permutation In String | [📁 Permutation In String](./Permutation%20In%20String) | [🔗 LeetCode](https://leetcode.com/problems/permutation-in-string/) |
-| 441 | Permutations | [📁 Permutations](./Permutations) | [🔗 LeetCode](https://leetcode.com/problems/permutations/) |
-| 442 | Plus One | [📁 Plus One](./Plus%20One) | [🔗 LeetCode](https://leetcode.com/problems/plus-one/) |
-| 443 | Powx N | [📁 Powx N](./Powx%20N) | [🔗 LeetCode](https://leetcode.com/problems/powx-n/) |
-| 444 | Primary Department For Each Employee | [📁 Primary Department For Each Employee](./Primary%20Department%20For%20Each%20Employee) | [🔗 LeetCode](https://leetcode.com/problems/primary-department-for-each-employee/) |
-| 445 | Prime Subtraction Operation | [📁 Prime Subtraction Operation](./Prime%20Subtraction%20Operation) | [🔗 LeetCode](https://leetcode.com/problems/prime-subtraction-operation/) |
-| 446 | Product Of Array Except Self | [📁 Product Of Array Except Self](./Product%20Of%20Array%20Except%20Self) | [🔗 LeetCode](https://leetcode.com/problems/product-of-array-except-self/) |
-| 447 | Product Of The Last K Numbers | [📁 Product Of The Last K Numbers](./Product%20Of%20The%20Last%20K%20Numbers) | [🔗 LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/) |
-| 448 | Product Price At A Given Date | [📁 Product Price At A Given Date](./Product%20Price%20At%20A%20Given%20Date) | [🔗 LeetCode](https://leetcode.com/problems/product-price-at-a-given-date/) |
-| 449 | Product Sales Analysis I | [📁 Product Sales Analysis I](./Product%20Sales%20Analysis%20I) | [🔗 LeetCode](https://leetcode.com/problems/product-sales-analysis-i/) |
-| 450 | Product Sales Analysis Iii | [📁 Product Sales Analysis Iii](./Product%20Sales%20Analysis%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/product-sales-analysis-iii/) |
-| 451 | Project Employees I | [📁 Project Employees I](./Project%20Employees%20I) | [🔗 LeetCode](https://leetcode.com/problems/project-employees-i/) |
-| 452 | Push Dominoes | [📁 Push Dominoes](./Push%20Dominoes) | [🔗 LeetCode](https://leetcode.com/problems/push-dominoes/) |
-| 453 | Put Marbles In Bags | [📁 Put Marbles In Bags](./Put%20Marbles%20In%20Bags) | [🔗 LeetCode](https://leetcode.com/problems/put-marbles-in-bags/) |
-| 454 | Queries Quality And Percentage | [📁 Queries Quality And Percentage](./Queries%20Quality%20And%20Percentage) | [🔗 LeetCode](https://leetcode.com/problems/queries-quality-and-percentage/) |
-| 455 | Rabbits In Forest | [📁 Rabbits In Forest](./Rabbits%20In%20Forest) | [🔗 LeetCode](https://leetcode.com/problems/rabbits-in-forest/) |
-| 456 | Range Sum Of Sorted Subarray Sums | [📁 Range Sum Of Sorted Subarray Sums](./Range%20Sum%20Of%20Sorted%20Subarray%20Sums) | [🔗 LeetCode](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) |
-| 457 | Rank Scores | [📁 Rank Scores](./Rank%20Scores) | [🔗 LeetCode](https://leetcode.com/problems/rank-scores/) |
-| 458 | Rank Transform Of An Array | [📁 Rank Transform Of An Array](./Rank%20Transform%20Of%20An%20Array) | [🔗 LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) |
-| 459 | Ransom Note | [📁 Ransom Note](./Ransom%20Note) | [🔗 LeetCode](https://leetcode.com/problems/ransom-note/) |
-| 460 | Rearrange Array Elements By Sign | [📁 Rearrange Array Elements By Sign](./Rearrange%20Array%20Elements%20By%20Sign) | [🔗 LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
-| 461 | Recover A Tree From Preorder Traversal | [📁 Recover A Tree From Preorder Traversal](./Recover%20A%20Tree%20From%20Preorder%20Traversal) | [🔗 LeetCode](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) |
-| 462 | Recyclable And Low Fat Products | [📁 Recyclable And Low Fat Products](./Recyclable%20And%20Low%20Fat%20Products) | [🔗 LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products/) |
-| 463 | Redundant Connection | [📁 Redundant Connection](./Redundant%20Connection) | [🔗 LeetCode](https://leetcode.com/problems/redundant-connection/) |
-| 464 | Regions Cut By Slashes | [📁 Regions Cut By Slashes](./Regions%20Cut%20By%20Slashes) | [🔗 LeetCode](https://leetcode.com/problems/regions-cut-by-slashes/) |
-| 465 | Relative Sort Array | [📁 Relative Sort Array](./Relative%20Sort%20Array) | [🔗 LeetCode](https://leetcode.com/problems/relative-sort-array/) |
-| 466 | Remove All Occurrences Of A Substring | [📁 Remove All Occurrences Of A Substring](./Remove%20All%20Occurrences%20Of%20A%20Substring) | [🔗 LeetCode](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) |
-| 467 | Remove Duplicates From Sorted Array | [📁 Remove Duplicates From Sorted Array](./Remove%20Duplicates%20From%20Sorted%20Array) | [🔗 LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
-| 468 | Remove Duplicates From Sorted Array Ii | [📁 Remove Duplicates From Sorted Array Ii](./Remove%20Duplicates%20From%20Sorted%20Array%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |
-| 469 | Remove Duplicates From Sorted List | [📁 Remove Duplicates From Sorted List](./Remove%20Duplicates%20From%20Sorted%20List) | [🔗 LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
-| 470 | Remove Duplicates From Sorted List Ii | [📁 Remove Duplicates From Sorted List Ii](./Remove%20Duplicates%20From%20Sorted%20List%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |
-| 471 | Remove Element | [📁 Remove Element](./Remove%20Element) | [🔗 LeetCode](https://leetcode.com/problems/remove-element/) |
-| 472 | Remove Max Number Of Edges To Keep Graph Fully Traversable | [📁 Remove Max Number Of Edges To Keep Graph Fully Traversable](./Remove%20Max%20Number%20Of%20Edges%20To%20Keep%20Graph%20Fully%20Traversable) | [🔗 LeetCode](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) |
-| 473 | Remove Nth Node From End Of List | [📁 Remove Nth Node From End Of List](./Remove%20Nth%20Node%20From%20End%20Of%20List) | [🔗 LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
-| 474 | Remove Sub Folders From The Filesystem | [📁 Remove Sub Folders From The Filesystem](./Remove%20Sub%20Folders%20From%20The%20Filesystem) | [🔗 LeetCode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
-| 475 | Rename Columns | [📁 Rename Columns](./Rename%20Columns) | [🔗 LeetCode](https://leetcode.com/problems/rename-columns/) |
-| 476 | Repeated Substring Pattern | [📁 Repeated Substring Pattern](./Repeated%20Substring%20Pattern) | [🔗 LeetCode](https://leetcode.com/problems/repeated-substring-pattern/) |
-| 477 | Replace Employee Id With The Unique Identifier | [📁 Replace Employee Id With The Unique Identifier](./Replace%20Employee%20Id%20With%20The%20Unique%20Identifier) | [🔗 LeetCode](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) |
-| 478 | Replace Words | [📁 Replace Words](./Replace%20Words) | [🔗 LeetCode](https://leetcode.com/problems/replace-words/) |
-| 479 | Reschedule Meetings for Maximum Free Time I | [📁 Reschedule Meetings for Maximum Free Time I](./Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20I) | [🔗 LeetCode](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) |
-| 480 | Restaurant Growth | [📁 Restaurant Growth](./Restaurant%20Growth) | [🔗 LeetCode](https://leetcode.com/problems/restaurant-growth/) |
-| 481 | Reverse Integer | [📁 Reverse Integer](./Reverse%20Integer) | [🔗 LeetCode](https://leetcode.com/problems/reverse-integer/) |
-| 482 | Reverse Linked List | [📁 Reverse Linked List](./Reverse%20Linked%20List) | [🔗 LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
-| 483 | Reverse Odd Levels Of Binary Tree | [📁 Reverse Odd Levels Of Binary Tree](./Reverse%20Odd%20Levels%20Of%20Binary%20Tree) | [🔗 LeetCode](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) |
-| 484 | Reverse String | [📁 Reverse String](./Reverse%20String) | [🔗 LeetCode](https://leetcode.com/problems/reverse-string/) |
-| 485 | Reverse Substrings Between Each Pair Of Parentheses | [📁 Reverse Substrings Between Each Pair Of Parentheses](./Reverse%20Substrings%20Between%20Each%20Pair%20Of%20Parentheses) | [🔗 LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) |
-| 486 | Reverse Words In A String | [📁 Reverse Words In A String](./Reverse%20Words%20In%20A%20String) | [🔗 LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
-| 487 | Rising Temperature | [📁 Rising Temperature](./Rising%20Temperature) | [🔗 LeetCode](https://leetcode.com/problems/rising-temperature/) |
-| 488 | Robot Collisions | [📁 Robot Collisions](./Robot%20Collisions) | [🔗 LeetCode](https://leetcode.com/problems/robot-collisions/) |
-| 489 | Roman To Integer | [📁 Roman To Integer](./Roman%20To%20Integer) | [🔗 LeetCode](https://leetcode.com/problems/roman-to-integer/) |
-| 490 | Rotate Array | [📁 Rotate Array](./Rotate%20Array) | [🔗 LeetCode](https://leetcode.com/problems/rotate-array/) |
-| 491 | Rotate List | [📁 Rotate List](./Rotate%20List) | [🔗 LeetCode](https://leetcode.com/problems/rotate-list/) |
-| 492 | Rotate String | [📁 Rotate String](./Rotate%20String) | [🔗 LeetCode](https://leetcode.com/problems/rotate-string/) |
-| 493 | Rotating The Box | [📁 Rotating The Box](./Rotating%20The%20Box) | [🔗 LeetCode](https://leetcode.com/problems/rotating-the-box/) |
-| 494 | Sales Analysis Iii | [📁 Sales Analysis Iii](./Sales%20Analysis%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/sales-analysis-iii/) |
-| 495 | Sales Person | [📁 Sales Person](./Sales%20Person) | [🔗 LeetCode](https://leetcode.com/problems/sales-person/) |
-| 496 | Same Tree | [📁 Same Tree](./Same%20Tree) | [🔗 LeetCode](https://leetcode.com/problems/same-tree/) |
-| 497 | Score Of A String | [📁 Score Of A String](./Score%20Of%20A%20String) | [🔗 LeetCode](https://leetcode.com/problems/score-of-a-string/) |
-| 498 | Search A 2d Matrix | [📁 Search A 2d Matrix](./Search%20A%202d%20Matrix) | [🔗 LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) |
-| 499 | Search In Rotated Sorted Array | [📁 Search In Rotated Sorted Array](./Search%20In%20Rotated%20Sorted%20Array) | [🔗 LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
-| 500 | Search In Rotated Sorted Array Ii | [📁 Search In Rotated Sorted Array Ii](./Search%20In%20Rotated%20Sorted%20Array%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |
-| 501 | Search Insert Position | [📁 Search Insert Position](./Search%20Insert%20Position) | [🔗 LeetCode](https://leetcode.com/problems/search-insert-position/) |
-| 502 | Second Highest Salary | [📁 Second Highest Salary](./Second%20Highest%20Salary) | [🔗 LeetCode](https://leetcode.com/problems/second-highest-salary/) |
-| 503 | Second Minimum Time To Reach Destination | [📁 Second Minimum Time To Reach Destination](./Second%20Minimum%20Time%20To%20Reach%20Destination) | [🔗 LeetCode](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) |
-| 504 | Select Data | [📁 Select Data](./Select%20Data) | [🔗 LeetCode](https://leetcode.com/problems/select-data/) |
-| 505 | Sentence Similarity Iii | [📁 Sentence Similarity Iii](./Sentence%20Similarity%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/sentence-similarity-iii/) |
-| 506 | Separate Black And White Balls | [📁 Separate Black And White Balls](./Separate%20Black%20And%20White%20Balls) | [🔗 LeetCode](https://leetcode.com/problems/separate-black-and-white-balls/) |
-| 507 | Set Matrix Zeroes | [📁 Set Matrix Zeroes](./Set%20Matrix%20Zeroes) | [🔗 LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) |
-| 508 | Shifting Letters Ii | [📁 Shifting Letters Ii](./Shifting%20Letters%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/shifting-letters-ii/) |
-| 509 | Shortest Common Supersequence | [📁 Shortest Common Supersequence](./Shortest%20Common%20Supersequence) | [🔗 LeetCode](https://leetcode.com/problems/shortest-common-supersequence/) |
-| 510 | Shortest Distance After Road Addition Queries I | [📁 Shortest Distance After Road Addition Queries I](./Shortest%20Distance%20After%20Road%20Addition%20Queries%20I) | [🔗 LeetCode](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) |
-| 511 | Shortest Palindrome | [📁 Shortest Palindrome](./Shortest%20Palindrome) | [🔗 LeetCode](https://leetcode.com/problems/shortest-palindrome/) |
-| 512 | Shortest Subarray To Be Removed To Make Array Sorted | [📁 Shortest Subarray To Be Removed To Make Array Sorted](./Shortest%20Subarray%20To%20Be%20Removed%20To%20Make%20Array%20Sorted) | [🔗 LeetCode](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) |
-| 513 | Shortest Subarray With Or At Least K Ii | [📁 Shortest Subarray With Or At Least K Ii](./Shortest%20Subarray%20With%20Or%20At%20Least%20K%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) |
-| 514 | Shortest Subarray With Sum At Least K | [📁 Shortest Subarray With Sum At Least K](./Shortest%20Subarray%20With%20Sum%20At%20Least%20K) | [🔗 LeetCode](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) |
-| 515 | Simplify Path | [📁 Simplify Path](./Simplify%20Path) | [🔗 LeetCode](https://leetcode.com/problems/simplify-path/) |
-| 516 | Single Number | [📁 Single Number](./Single%20Number) | [🔗 LeetCode](https://leetcode.com/problems/single-number/) |
-| 517 | Single Number Iii | [📁 Single Number Iii](./Single%20Number%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/single-number-iii/) |
-| 518 | Sliding Puzzle | [📁 Sliding Puzzle](./Sliding%20Puzzle) | [🔗 LeetCode](https://leetcode.com/problems/sliding-puzzle/) |
-| 519 | Sliding Window Maximum | [📁 Sliding Window Maximum](./Sliding%20Window%20Maximum) | [🔗 LeetCode](https://leetcode.com/problems/sliding-window-maximum/) |
-| 520 | Smallest Range Covering Elements From K Lists | [📁 Smallest Range Covering Elements From K Lists](./Smallest%20Range%20Covering%20Elements%20From%20K%20Lists) | [🔗 LeetCode](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) |
-| 521 | Snakes and Ladders | [📁 Snakes and Ladders](./Snakes%20and%20Ladders) | [🔗 LeetCode](https://leetcode.com/problems/snakes-and-ladders/) |
-| 522 | Solving Questions With Brainpower | [📁 Solving Questions With Brainpower](./Solving%20Questions%20With%20Brainpower) | [🔗 LeetCode](https://leetcode.com/problems/solving-questions-with-brainpower/) |
-| 523 | Sort An Array | [📁 Sort An Array](./Sort%20An%20Array) | [🔗 LeetCode](https://leetcode.com/problems/sort-an-array/) |
-| 524 | Sort Array By Increasing Frequency | [📁 Sort Array By Increasing Frequency](./Sort%20Array%20By%20Increasing%20Frequency) | [🔗 LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |
-| 525 | Sort Colors | [📁 Sort Colors](./Sort%20Colors) | [🔗 LeetCode](https://leetcode.com/problems/sort-colors/) |
-| 526 | Sort The Jumbled Numbers | [📁 Sort The Jumbled Numbers](./Sort%20The%20Jumbled%20Numbers) | [🔗 LeetCode](https://leetcode.com/problems/sort-the-jumbled-numbers/) |
-| 527 | Sort The People | [📁 Sort The People](./Sort%20The%20People) | [🔗 LeetCode](https://leetcode.com/problems/sort-the-people/) |
-| 528 | Special Array I | [📁 Special Array I](./Special%20Array%20I) | [🔗 LeetCode](https://leetcode.com/problems/special-array-i/) |
-| 529 | Special Array Ii | [📁 Special Array Ii](./Special%20Array%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/special-array-ii/) |
-| 530 | Special Array With X Elements Greater Than Or Equal X | [📁 Special Array With X Elements Greater Than Or Equal X](./Special%20Array%20With%20X%20Elements%20Greater%20Than%20Or%20Equal%20X) | [🔗 LeetCode](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) |
-| 531 | Spiral Matrix Iii | [📁 Spiral Matrix Iii](./Spiral%20Matrix%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/spiral-matrix-iii/) |
-| 532 | Spiral Matrix Iv | [📁 Spiral Matrix Iv](./Spiral%20Matrix%20Iv) | [🔗 LeetCode](https://leetcode.com/problems/spiral-matrix-iv/) |
-| 533 | Split A String Into The Max Number Of Unique Substrings | [📁 Split A String Into The Max Number Of Unique Substrings](./Split%20A%20String%20Into%20The%20Max%20Number%20Of%20Unique%20Substrings) | [🔗 LeetCode](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) |
-| 534 | Split Linked List In Parts | [📁 Split Linked List In Parts](./Split%20Linked%20List%20In%20Parts) | [🔗 LeetCode](https://leetcode.com/problems/split-linked-list-in-parts/) |
-| 535 | Sqrtx | [📁 Sqrtx](./Sqrtx) | [🔗 LeetCode](https://leetcode.com/problems/sqrtx/) |
-| 536 | Step By Step Directions From A Binary Tree Node To Another | [📁 Step By Step Directions From A Binary Tree Node To Another](./Step%20By%20Step%20Directions%20From%20A%20Binary%20Tree%20Node%20To%20Another) | [🔗 LeetCode](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) |
-| 537 | Stone Game Ii | [📁 Stone Game Ii](./Stone%20Game%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/stone-game-ii/) |
-| 538 | Strange Printer | [📁 Strange Printer](./Strange%20Printer) | [🔗 LeetCode](https://leetcode.com/problems/strange-printer/) |
-| 539 | String Compression Iii | [📁 String Compression Iii](./String%20Compression%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/string-compression-iii/) |
-| 540 | String Matching In An Array | [📁 String Matching In An Array](./String%20Matching%20In%20An%20Array) | [🔗 LeetCode](https://leetcode.com/problems/string-matching-in-an-array/) |
-| 541 | String To Integer Atoi | [📁 String To Integer Atoi](./String%20To%20Integer%20Atoi) | [🔗 LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) |
-| 542 | Students And Examinations | [📁 Students And Examinations](./Students%20And%20Examinations) | [🔗 LeetCode](https://leetcode.com/problems/students-and-examinations/) |
-| 543 | Subarray Sums Divisible By K | [📁 Subarray Sums Divisible By K](./Subarray%20Sums%20Divisible%20By%20K) | [🔗 LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
-| 544 | Subsets | [📁 Subsets](./Subsets) | [🔗 LeetCode](https://leetcode.com/problems/subsets/) |
-| 545 | Substring With Concatenation Of All Words | [📁 Substring With Concatenation Of All Words](./Substring%20With%20Concatenation%20Of%20All%20Words) | [🔗 LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |
-| 546 | Sum Of All Subset Xor Totals | [📁 Sum Of All Subset Xor Totals](./Sum%20Of%20All%20Subset%20Xor%20Totals) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) |
-| 547 | Sum Of Digits Of String After Convert | [📁 Sum Of Digits Of String After Convert](./Sum%20Of%20Digits%20Of%20String%20After%20Convert) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) |
-| 548 | Sum Of Prefix Scores Of Strings | [📁 Sum Of Prefix Scores Of Strings](./Sum%20Of%20Prefix%20Scores%20Of%20Strings) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) |
-| 549 | Sum Of Square Numbers | [📁 Sum Of Square Numbers](./Sum%20Of%20Square%20Numbers) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-square-numbers/) |
-| 550 | Sum of k-Mirror Numbers | [📁 Sum of k-Mirror Numbers](./Sum%20of%20k-Mirror%20Numbers) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-k-mirror-numbers/) |
-| 551 | Summary Ranges | [📁 Summary Ranges](./Summary%20Ranges) | [🔗 LeetCode](https://leetcode.com/problems/summary-ranges/) |
-| 552 | Swap Nodes In Pairs | [📁 Swap Nodes In Pairs](./Swap%20Nodes%20In%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) |
-| 553 | Swap Salary | [📁 Swap Salary](./Swap%20Salary) | [🔗 LeetCode](https://leetcode.com/problems/swap-salary/) |
-| 554 | Take Gifts From The Richest Pile | [📁 Take Gifts From The Richest Pile](./Take%20Gifts%20From%20The%20Richest%20Pile) | [🔗 LeetCode](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) |
-| 555 | Take K Of Each Character From Left And Right | [📁 Take K Of Each Character From Left And Right](./Take%20K%20Of%20Each%20Character%20From%20Left%20And%20Right) | [🔗 LeetCode](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) |
-| 556 | Target Sum | [📁 Target Sum](./Target%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/target-sum/) |
-| 557 | The K Th Lexicographical String Of All Happy Strings Of Length N | [📁 The K Th Lexicographical String Of All Happy Strings Of Length N](./The%20K%20Th%20Lexicographical%20String%20Of%20All%20Happy%20Strings%20Of%20Length%20N) | [🔗 LeetCode](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) |
-| 558 | The Latest Login In 2020 | [📁 The Latest Login In 2020](./The%20Latest%20Login%20In%202020) | [🔗 LeetCode](https://leetcode.com/problems/the-latest-login-in-2020/) |
-| 559 | The Number Of Employees Which Report To Each Employee | [📁 The Number Of Employees Which Report To Each Employee](./The%20Number%20Of%20Employees%20Which%20Report%20To%20Each%20Employee) | [🔗 LeetCode](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) |
-| 560 | The Number Of The Smallest Unoccupied Chair | [📁 The Number Of The Smallest Unoccupied Chair](./The%20Number%20Of%20The%20Smallest%20Unoccupied%20Chair) | [🔗 LeetCode](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) |
-| 561 | Three Consecutive Odds | [📁 Three Consecutive Odds](./Three%20Consecutive%20Odds) | [🔗 LeetCode](https://leetcode.com/problems/three-consecutive-odds/) |
-| 562 | Top Travellers | [📁 Top Travellers](./Top%20Travellers) | [🔗 LeetCode](https://leetcode.com/problems/top-travellers/) |
-| 563 | Total Characters In String After Transformations I | [📁 Total Characters In String After Transformations I](./Total%20Characters%20In%20String%20After%20Transformations%20I) | [🔗 LeetCode](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) |
-| 564 | Total Characters in String After Transformations II | [📁 Total Characters in String After Transformations II](./Total%20Characters%20in%20String%20After%20Transformations%20II) | [🔗 LeetCode](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) |
-| 565 | Trapping Rain Water Ii | [📁 Trapping Rain Water Ii](./Trapping%20Rain%20Water%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/trapping-rain-water-ii/) |
-| 566 | Tree Node | [📁 Tree Node](./Tree%20Node) | [🔗 LeetCode](https://leetcode.com/problems/tree-node/) |
-| 567 | Triangle | [📁 Triangle](./Triangle) | [🔗 LeetCode](https://leetcode.com/problems/triangle/) |
-| 568 | Triangle Judgement | [📁 Triangle Judgement](./Triangle%20Judgement) | [🔗 LeetCode](https://leetcode.com/problems/triangle-judgement/) |
-| 569 | Trips And Users | [📁 Trips And Users](./Trips%20And%20Users) | [🔗 LeetCode](https://leetcode.com/problems/trips-and-users/) |
-| 570 | Tuple With Same Product | [📁 Tuple With Same Product](./Tuple%20With%20Same%20Product) | [🔗 LeetCode](https://leetcode.com/problems/tuple-with-same-product/) |
-| 571 | Two Best Non Overlapping Events | [📁 Two Best Non Overlapping Events](./Two%20Best%20Non%20Overlapping%20Events) | [🔗 LeetCode](https://leetcode.com/problems/two-best-non-overlapping-events/) |
-| 572 | Two Sum | [📁 Two Sum](./Two%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/two-sum/) |
-| 573 | Two Sum Ii Input Array Is Sorted | [📁 Two Sum Ii Input Array Is Sorted](./Two%20Sum%20Ii%20Input%20Array%20Is%20Sorted) | [🔗 LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-| 574 | Type of Triangle | [📁 Type of Triangle](./Type%20of%20Triangle) | [🔗 LeetCode](https://leetcode.com/problems/type-of-triangle/) |
-| 575 | Ugly Number Ii | [📁 Ugly Number Ii](./Ugly%20Number%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/ugly-number-ii/) |
-| 576 | Uncommon Words From Two Sentences | [📁 Uncommon Words From Two Sentences](./Uncommon%20Words%20From%20Two%20Sentences) | [🔗 LeetCode](https://leetcode.com/problems/uncommon-words-from-two-sentences/) |
-| 577 | Unique Length 3 Palindromic Subsequences | [📁 Unique Length 3 Palindromic Subsequences](./Unique%20Length%203%20Palindromic%20Subsequences) | [🔗 LeetCode](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) |
-| 578 | Unique Paths | [📁 Unique Paths](./Unique%20Paths) | [🔗 LeetCode](https://leetcode.com/problems/unique-paths/) |
-| 579 | Unique Paths Ii | [📁 Unique Paths Ii](./Unique%20Paths%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/unique-paths-ii/) |
-| 580 | User Activity For The Past 30 Days I | [📁 User Activity For The Past 30 Days I](./User%20Activity%20For%20The%20Past%2030%20Days%20I) | [🔗 LeetCode](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) |
-| 581 | Using a Robot to Print the Lexicographically Smallest String | [📁 Using a Robot to Print the Lexicographically Smallest String](./Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String) | [🔗 LeetCode](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) |
-| 582 | Valid Anagram | [📁 Valid Anagram](./Valid%20Anagram) | [🔗 LeetCode](https://leetcode.com/problems/valid-anagram/) |
-| 583 | Valid Arrangement Of Pairs | [📁 Valid Arrangement Of Pairs](./Valid%20Arrangement%20Of%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/valid-arrangement-of-pairs/) |
-| 584 | Valid Palindrome | [📁 Valid Palindrome](./Valid%20Palindrome) | [🔗 LeetCode](https://leetcode.com/problems/valid-palindrome/) |
-| 585 | Valid Parentheses | [📁 Valid Parentheses](./Valid%20Parentheses) | [🔗 LeetCode](https://leetcode.com/problems/valid-parentheses/) |
-| 586 | Valid Sudoku | [📁 Valid Sudoku](./Valid%20Sudoku) | [🔗 LeetCode](https://leetcode.com/problems/valid-sudoku/) |
-| 587 | Valid Word | [📁 Valid Word](./Valid%20Word) | [🔗 LeetCode](https://leetcode.com/problems/valid-word/) |
-| 588 | Walking Robot Simulation | [📁 Walking Robot Simulation](./Walking%20Robot%20Simulation) | [🔗 LeetCode](https://leetcode.com/problems/walking-robot-simulation/) |
-| 589 | Water Bottles | [📁 Water Bottles](./Water%20Bottles) | [🔗 LeetCode](https://leetcode.com/problems/water-bottles/) |
-| 590 | Word Break | [📁 Word Break](./Word%20Break) | [🔗 LeetCode](https://leetcode.com/problems/word-break/) |
-| 591 | Word Break Ii | [📁 Word Break Ii](./Word%20Break%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/word-break-ii/) |
-| 592 | Word Pattern | [📁 Word Pattern](./Word%20Pattern) | [🔗 LeetCode](https://leetcode.com/problems/word-pattern/) |
-| 593 | Word Subsets | [📁 Word Subsets](./Word%20Subsets) | [🔗 LeetCode](https://leetcode.com/problems/word-subsets/) |
-| 594 | Xor Queries Of A Subarray | [📁 Xor Queries Of A Subarray](./Xor%20Queries%20Of%20A%20Subarray) | [🔗 LeetCode](https://leetcode.com/problems/xor-queries-of-a-subarray/) |
-| 595 | Zero Array Transformation I | [📁 Zero Array Transformation I](./Zero%20Array%20Transformation%20I) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-i/) |
-| 596 | Zero Array Transformation III | [📁 Zero Array Transformation III](./Zero%20Array%20Transformation%20III) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-iii/) |
-| 597 | Zero Array Transformation Ii | [📁 Zero Array Transformation Ii](./Zero%20Array%20Transformation%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-ii/) |
-| 598 | Zigzag Conversion | [📁 Zigzag Conversion](./Zigzag%20Conversion) | [🔗 LeetCode](https://leetcode.com/problems/zigzag-conversion/) |
+| 337 | Maximum Unique Subarray Sum After Deletion | [📁 Maximum Unique Subarray Sum After Deletion](./Maximum%20Unique%20Subarray%20Sum%20After%20Deletion) | [🔗 LeetCode](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) |
+| 338 | Maximum Value Of An Ordered Triplet I | [📁 Maximum Value Of An Ordered Triplet I](./Maximum%20Value%20Of%20An%20Ordered%20Triplet%20I) | [🔗 LeetCode](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) |
+| 339 | Maximum Value Of An Ordered Triplet Ii | [📁 Maximum Value Of An Ordered Triplet Ii](./Maximum%20Value%20Of%20An%20Ordered%20Triplet%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/) |
+| 340 | Maximum Width Ramp | [📁 Maximum Width Ramp](./Maximum%20Width%20Ramp) | [🔗 LeetCode](https://leetcode.com/problems/maximum-width-ramp/) |
+| 341 | Maximum Xor For Each Query | [📁 Maximum Xor For Each Query](./Maximum%20Xor%20For%20Each%20Query) | [🔗 LeetCode](https://leetcode.com/problems/maximum-xor-for-each-query/) |
+| 342 | Merge Intervals | [📁 Merge Intervals](./Merge%20Intervals) | [🔗 LeetCode](https://leetcode.com/problems/merge-intervals/) |
+| 343 | Merge Nodes In Between Zeros | [📁 Merge Nodes In Between Zeros](./Merge%20Nodes%20In%20Between%20Zeros) | [🔗 LeetCode](https://leetcode.com/problems/merge-nodes-in-between-zeros/) |
+| 344 | Merge Sorted Array | [📁 Merge Sorted Array](./Merge%20Sorted%20Array) | [🔗 LeetCode](https://leetcode.com/problems/merge-sorted-array/) |
+| 345 | Merge Two 2d Arrays By Summing Values | [📁 Merge Two 2d Arrays By Summing Values](./Merge%20Two%202d%20Arrays%20By%20Summing%20Values) | [🔗 LeetCode](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) |
+| 346 | Merge Two Sorted Lists | [📁 Merge Two Sorted Lists](./Merge%20Two%20Sorted%20Lists) | [🔗 LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 347 | Min Stack | [📁 Min Stack](./Min%20Stack) | [🔗 LeetCode](https://leetcode.com/problems/min-stack/) |
+| 348 | Minimize Xor | [📁 Minimize Xor](./Minimize%20Xor) | [🔗 LeetCode](https://leetcode.com/problems/minimize-xor/) |
+| 349 | Minimize the Maximum Difference of Pairs | [📁 Minimize the Maximum Difference of Pairs](./Minimize%20the%20Maximum%20Difference%20of%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) |
+| 350 | Minimized Maximum Of Products Distributed To Any Store | [📁 Minimized Maximum Of Products Distributed To Any Store](./Minimized%20Maximum%20Of%20Products%20Distributed%20To%20Any%20Store) | [🔗 LeetCode](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) |
+| 351 | Minimum Absolute Difference In Bst | [📁 Minimum Absolute Difference In Bst](./Minimum%20Absolute%20Difference%20In%20Bst) | [🔗 LeetCode](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) |
+| 352 | Minimum Add To Make Parentheses Valid | [📁 Minimum Add To Make Parentheses Valid](./Minimum%20Add%20To%20Make%20Parentheses%20Valid) | [🔗 LeetCode](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) |
+| 353 | Minimum Array End | [📁 Minimum Array End](./Minimum%20Array%20End) | [🔗 LeetCode](https://leetcode.com/problems/minimum-array-end/) |
+| 354 | Minimum Bit Flips To Convert Number | [📁 Minimum Bit Flips To Convert Number](./Minimum%20Bit%20Flips%20To%20Convert%20Number) | [🔗 LeetCode](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) |
+| 355 | Minimum Cost For Tickets | [📁 Minimum Cost For Tickets](./Minimum%20Cost%20For%20Tickets) | [🔗 LeetCode](https://leetcode.com/problems/minimum-cost-for-tickets/) |
+| 356 | Minimum Cost To Convert String I | [📁 Minimum Cost To Convert String I](./Minimum%20Cost%20To%20Convert%20String%20I) | [🔗 LeetCode](https://leetcode.com/problems/minimum-cost-to-convert-string-i/) |
+| 357 | Minimum Cost To Make At Least One Valid Path In A Grid | [📁 Minimum Cost To Make At Least One Valid Path In A Grid](./Minimum%20Cost%20To%20Make%20At%20Least%20One%20Valid%20Path%20In%20A%20Grid) | [🔗 LeetCode](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) |
+| 358 | Minimum Cost Walk In Weighted Graph | [📁 Minimum Cost Walk In Weighted Graph](./Minimum%20Cost%20Walk%20In%20Weighted%20Graph) | [🔗 LeetCode](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/) |
+| 359 | Minimum Deletions To Make String Balanced | [📁 Minimum Deletions To Make String Balanced](./Minimum%20Deletions%20To%20Make%20String%20Balanced) | [🔗 LeetCode](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) |
+| 360 | Minimum Deletions to Make String K-Special | [📁 Minimum Deletions to Make String K-Special](./Minimum%20Deletions%20to%20Make%20String%20K-Special) | [🔗 LeetCode](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/) |
+| 361 | Minimum Difference Between Largest And Smallest Value In Three Moves | [📁 Minimum Difference Between Largest And Smallest Value In Three Moves](./Minimum%20Difference%20Between%20Largest%20And%20Smallest%20Value%20In%20Three%20Moves) | [🔗 LeetCode](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) |
+| 362 | Minimum Domino Rotations For Equal Row | [📁 Minimum Domino Rotations For Equal Row](./Minimum%20Domino%20Rotations%20For%20Equal%20Row) | [🔗 LeetCode](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) |
+| 363 | Minimum Equal Sum Of Two Arrays After Replacing Zeros | [📁 Minimum Equal Sum Of Two Arrays After Replacing Zeros](./Minimum%20Equal%20Sum%20Of%20Two%20Arrays%20After%20Replacing%20Zeros) | [🔗 LeetCode](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) |
+| 364 | Minimum Increment To Make Array Unique | [📁 Minimum Increment To Make Array Unique](./Minimum%20Increment%20To%20Make%20Array%20Unique) | [🔗 LeetCode](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) |
+| 365 | Minimum Index Of A Valid Split | [📁 Minimum Index Of A Valid Split](./Minimum%20Index%20Of%20A%20Valid%20Split) | [🔗 LeetCode](https://leetcode.com/problems/minimum-index-of-a-valid-split/) |
+| 366 | Minimum Length Of String After Operations | [📁 Minimum Length Of String After Operations](./Minimum%20Length%20Of%20String%20After%20Operations) | [🔗 LeetCode](https://leetcode.com/problems/minimum-length-of-string-after-operations/) |
+| 367 | Minimum Limit Of Balls In A Bag | [📁 Minimum Limit Of Balls In A Bag](./Minimum%20Limit%20Of%20Balls%20In%20A%20Bag) | [🔗 LeetCode](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) |
+| 368 | Minimum Number Of Arrows To Burst Balloons | [📁 Minimum Number Of Arrows To Burst Balloons](./Minimum%20Number%20Of%20Arrows%20To%20Burst%20Balloons) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |
+| 369 | Minimum Number Of Changes To Make Binary String Beautiful | [📁 Minimum Number Of Changes To Make Binary String Beautiful](./Minimum%20Number%20Of%20Changes%20To%20Make%20Binary%20String%20Beautiful) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) |
+| 370 | Minimum Number Of Days To Disconnect Island | [📁 Minimum Number Of Days To Disconnect Island](./Minimum%20Number%20Of%20Days%20To%20Disconnect%20Island) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) |
+| 371 | Minimum Number Of Days To Make M Bouquets | [📁 Minimum Number Of Days To Make M Bouquets](./Minimum%20Number%20Of%20Days%20To%20Make%20M%20Bouquets) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |
+| 372 | Minimum Number Of K Consecutive Bit Flips | [📁 Minimum Number Of K Consecutive Bit Flips](./Minimum%20Number%20Of%20K%20Consecutive%20Bit%20Flips) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) |
+| 373 | Minimum Number Of Moves To Seat Everyone | [📁 Minimum Number Of Moves To Seat Everyone](./Minimum%20Number%20Of%20Moves%20To%20Seat%20Everyone) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) |
+| 374 | Minimum Number Of Operations To Make Elements In Array Distinct | [📁 Minimum Number Of Operations To Make Elements In Array Distinct](./Minimum%20Number%20Of%20Operations%20To%20Make%20Elements%20In%20Array%20Distinct) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) |
+| 375 | Minimum Number Of Operations To Move All Balls To Each Box | [📁 Minimum Number Of Operations To Move All Balls To Each Box](./Minimum%20Number%20Of%20Operations%20To%20Move%20All%20Balls%20To%20Each%20Box) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) |
+| 376 | Minimum Number Of Operations To Sort A Binary Tree By Level | [📁 Minimum Number Of Operations To Sort A Binary Tree By Level](./Minimum%20Number%20Of%20Operations%20To%20Sort%20A%20Binary%20Tree%20By%20Level) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) |
+| 377 | Minimum Number Of Pushes To Type Word Ii | [📁 Minimum Number Of Pushes To Type Word Ii](./Minimum%20Number%20Of%20Pushes%20To%20Type%20Word%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) |
+| 378 | Minimum Number Of Removals To Make Mountain Array | [📁 Minimum Number Of Removals To Make Mountain Array](./Minimum%20Number%20Of%20Removals%20To%20Make%20Mountain%20Array) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) |
+| 379 | Minimum Number Of Swaps To Make The String Balanced | [📁 Minimum Number Of Swaps To Make The String Balanced](./Minimum%20Number%20Of%20Swaps%20To%20Make%20The%20String%20Balanced) | [🔗 LeetCode](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) |
+| 380 | Minimum Obstacle Removal To Reach Corner | [📁 Minimum Obstacle Removal To Reach Corner](./Minimum%20Obstacle%20Removal%20To%20Reach%20Corner) | [🔗 LeetCode](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/) |
+| 381 | Minimum Operations To Exceed Threshold Value Ii | [📁 Minimum Operations To Exceed Threshold Value Ii](./Minimum%20Operations%20To%20Exceed%20Threshold%20Value%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) |
+| 382 | Minimum Operations To Make A Uni Value Grid | [📁 Minimum Operations To Make A Uni Value Grid](./Minimum%20Operations%20To%20Make%20A%20Uni%20Value%20Grid) | [🔗 LeetCode](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) |
+| 383 | Minimum Operations To Make Array Values Equal To K | [📁 Minimum Operations To Make Array Values Equal To K](./Minimum%20Operations%20To%20Make%20Array%20Values%20Equal%20To%20K) | [🔗 LeetCode](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) |
+| 384 | Minimum Operations To Make Binary Array Elements Equal To One I | [📁 Minimum Operations To Make Binary Array Elements Equal To One I](./Minimum%20Operations%20To%20Make%20Binary%20Array%20Elements%20Equal%20To%20One%20I) | [🔗 LeetCode](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) |
+| 385 | Minimum Operations To Make The Array Increasing | [📁 Minimum Operations To Make The Array Increasing](./Minimum%20Operations%20To%20Make%20The%20Array%20Increasing) | [🔗 LeetCode](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) |
+| 386 | Minimum Path Sum | [📁 Minimum Path Sum](./Minimum%20Path%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/minimum-path-sum/) |
+| 387 | Minimum Recolors To Get K Consecutive Black Blocks | [📁 Minimum Recolors To Get K Consecutive Black Blocks](./Minimum%20Recolors%20To%20Get%20K%20Consecutive%20Black%20Blocks) | [🔗 LeetCode](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) |
+| 388 | Minimum Size Subarray Sum | [📁 Minimum Size Subarray Sum](./Minimum%20Size%20Subarray%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| 389 | Minimum String Length After Removing Substrings | [📁 Minimum String Length After Removing Substrings](./Minimum%20String%20Length%20After%20Removing%20Substrings) | [🔗 LeetCode](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) |
+| 390 | Minimum Swaps To Group All 1s Together Ii | [📁 Minimum Swaps To Group All 1s Together Ii](./Minimum%20Swaps%20To%20Group%20All%201s%20Together%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) |
+| 391 | Minimum Time Difference | [📁 Minimum Time Difference](./Minimum%20Time%20Difference) | [🔗 LeetCode](https://leetcode.com/problems/minimum-time-difference/) |
+| 392 | Minimum Time To Repair Cars | [📁 Minimum Time To Repair Cars](./Minimum%20Time%20To%20Repair%20Cars) | [🔗 LeetCode](https://leetcode.com/problems/minimum-time-to-repair-cars/) |
+| 393 | Minimum Time To Visit A Cell In A Grid | [📁 Minimum Time To Visit A Cell In A Grid](./Minimum%20Time%20To%20Visit%20A%20Cell%20In%20A%20Grid) | [🔗 LeetCode](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/) |
+| 394 | Minimum Total Distance Traveled | [📁 Minimum Total Distance Traveled](./Minimum%20Total%20Distance%20Traveled) | [🔗 LeetCode](https://leetcode.com/problems/minimum-total-distance-traveled/) |
+| 395 | Minimum Window Substring | [📁 Minimum Window Substring](./Minimum%20Window%20Substring) | [🔗 LeetCode](https://leetcode.com/problems/minimum-window-substring/) |
+| 396 | Modify Columns | [📁 Modify Columns](./Modify%20Columns) | [🔗 LeetCode](https://leetcode.com/problems/modify-columns/) |
+| 397 | Modify Graph Edge Weights | [📁 Modify Graph Edge Weights](./Modify%20Graph%20Edge%20Weights) | [🔗 LeetCode](https://leetcode.com/problems/modify-graph-edge-weights/) |
+| 398 | Monthly Transactions I | [📁 Monthly Transactions I](./Monthly%20Transactions%20I) | [🔗 LeetCode](https://leetcode.com/problems/monthly-transactions-i/) |
+| 399 | Most Beautiful Item For Each Query | [📁 Most Beautiful Item For Each Query](./Most%20Beautiful%20Item%20For%20Each%20Query) | [🔗 LeetCode](https://leetcode.com/problems/most-beautiful-item-for-each-query/) |
+| 400 | Most Profit Assigning Work | [📁 Most Profit Assigning Work](./Most%20Profit%20Assigning%20Work) | [🔗 LeetCode](https://leetcode.com/problems/most-profit-assigning-work/) |
+| 401 | Most Profitable Path In A Tree | [📁 Most Profitable Path In A Tree](./Most%20Profitable%20Path%20In%20A%20Tree) | [🔗 LeetCode](https://leetcode.com/problems/most-profitable-path-in-a-tree/) |
+| 402 | Most Stones Removed With Same Row Or Column | [📁 Most Stones Removed With Same Row Or Column](./Most%20Stones%20Removed%20With%20Same%20Row%20Or%20Column) | [🔗 LeetCode](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) |
+| 403 | Move Pieces To Obtain A String | [📁 Move Pieces To Obtain A String](./Move%20Pieces%20To%20Obtain%20A%20String) | [🔗 LeetCode](https://leetcode.com/problems/move-pieces-to-obtain-a-string/) |
+| 404 | Movie Rating | [📁 Movie Rating](./Movie%20Rating) | [🔗 LeetCode](https://leetcode.com/problems/movie-rating/) |
+| 405 | Multiply Strings | [📁 Multiply Strings](./Multiply%20Strings) | [🔗 LeetCode](https://leetcode.com/problems/multiply-strings/) |
+| 406 | My Calendar I | [📁 My Calendar I](./My%20Calendar%20I) | [🔗 LeetCode](https://leetcode.com/problems/my-calendar-i/) |
+| 407 | My Calendar Ii | [📁 My Calendar Ii](./My%20Calendar%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/my-calendar-ii/) |
+| 408 | N Ary Tree Postorder Traversal | [📁 N Ary Tree Postorder Traversal](./N%20Ary%20Tree%20Postorder%20Traversal) | [🔗 LeetCode](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
+| 409 | Neighboring Bitwise Xor | [📁 Neighboring Bitwise Xor](./Neighboring%20Bitwise%20Xor) | [🔗 LeetCode](https://leetcode.com/problems/neighboring-bitwise-xor/) |
+| 410 | Next Permutation | [📁 Next Permutation](./Next%20Permutation) | [🔗 LeetCode](https://leetcode.com/problems/next-permutation/) |
+| 411 | Not Boring Movies | [📁 Not Boring Movies](./Not%20Boring%20Movies) | [🔗 LeetCode](https://leetcode.com/problems/not-boring-movies/) |
+| 412 | Nth Highest Salary | [📁 Nth Highest Salary](./Nth%20Highest%20Salary) | [🔗 LeetCode](https://leetcode.com/problems/nth-highest-salary/) |
+| 413 | Number Complement | [📁 Number Complement](./Number%20Complement) | [🔗 LeetCode](https://leetcode.com/problems/number-complement/) |
+| 414 | Number Of 1 Bits | [📁 Number Of 1 Bits](./Number%20Of%201%20Bits) | [🔗 LeetCode](https://leetcode.com/problems/number-of-1-bits/) |
+| 415 | Number Of Atoms | [📁 Number Of Atoms](./Number%20Of%20Atoms) | [🔗 LeetCode](https://leetcode.com/problems/number-of-atoms/) |
+| 416 | Number Of Equivalent Domino Pairs | [📁 Number Of Equivalent Domino Pairs](./Number%20Of%20Equivalent%20Domino%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) |
+| 417 | Number Of Good Leaf Nodes Pairs | [📁 Number Of Good Leaf Nodes Pairs](./Number%20Of%20Good%20Leaf%20Nodes%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) |
+| 418 | Number Of Good Pairs | [📁 Number Of Good Pairs](./Number%20Of%20Good%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/number-of-good-pairs/) |
+| 419 | Number Of Senior Citizens | [📁 Number Of Senior Citizens](./Number%20Of%20Senior%20Citizens) | [🔗 LeetCode](https://leetcode.com/problems/number-of-senior-citizens/) |
+| 420 | Number Of Steps To Reduce A Number In Binary Representation To One | [📁 Number Of Steps To Reduce A Number In Binary Representation To One](./Number%20Of%20Steps%20To%20Reduce%20A%20Number%20In%20Binary%20Representation%20To%20One) | [🔗 LeetCode](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) |
+| 421 | Number Of Sub Arrays With Odd Sum | [📁 Number Of Sub Arrays With Odd Sum](./Number%20Of%20Sub%20Arrays%20With%20Odd%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) |
+| 422 | Number Of Substrings Containing All Three Characters | [📁 Number Of Substrings Containing All Three Characters](./Number%20Of%20Substrings%20Containing%20All%20Three%20Characters) | [🔗 LeetCode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) |
+| 423 | Number Of Unique Subjects Taught By Each Teacher | [📁 Number Of Unique Subjects Taught By Each Teacher](./Number%20Of%20Unique%20Subjects%20Taught%20By%20Each%20Teacher) | [🔗 LeetCode](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) |
+| 424 | Number Of Ways To Arrive At Destination | [📁 Number Of Ways To Arrive At Destination](./Number%20Of%20Ways%20To%20Arrive%20At%20Destination) | [🔗 LeetCode](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) |
+| 425 | Number Of Ways To Form A Target String Given A Dictionary | [📁 Number Of Ways To Form A Target String Given A Dictionary](./Number%20Of%20Ways%20To%20Form%20A%20Target%20String%20Given%20A%20Dictionary) | [🔗 LeetCode](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/) |
+| 426 | Number Of Ways To Split Array | [📁 Number Of Ways To Split Array](./Number%20Of%20Ways%20To%20Split%20Array) | [🔗 LeetCode](https://leetcode.com/problems/number-of-ways-to-split-array/) |
+| 427 | Number of Subsequences That Satisfy the Given Sum Condition | [📁 Number of Subsequences That Satisfy the Given Sum Condition](./Number%20of%20Subsequences%20That%20Satisfy%20the%20Given%20Sum%20Condition) | [🔗 LeetCode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |
+| 428 | Painting a Grid With Three Different Colors | [📁 Painting a Grid With Three Different Colors](./Painting%20a%20Grid%20With%20Three%20Different%20Colors) | [🔗 LeetCode](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/) |
+| 429 | Palindrome Number | [📁 Palindrome Number](./Palindrome%20Number) | [🔗 LeetCode](https://leetcode.com/problems/palindrome-number/) |
+| 430 | Parsing A Boolean Expression | [📁 Parsing A Boolean Expression](./Parsing%20A%20Boolean%20Expression) | [🔗 LeetCode](https://leetcode.com/problems/parsing-a-boolean-expression/) |
+| 431 | Partition Array According To Given Pivot | [📁 Partition Array According To Given Pivot](./Partition%20Array%20According%20To%20Given%20Pivot) | [🔗 LeetCode](https://leetcode.com/problems/partition-array-according-to-given-pivot/) |
+| 432 | Partition Array Such That Maximum Difference Is K | [📁 Partition Array Such That Maximum Difference Is K](./Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K) | [🔗 LeetCode](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) |
+| 433 | Partition Equal Subset Sum | [📁 Partition Equal Subset Sum](./Partition%20Equal%20Subset%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/partition-equal-subset-sum/) |
+| 434 | Partition Labels | [📁 Partition Labels](./Partition%20Labels) | [🔗 LeetCode](https://leetcode.com/problems/partition-labels/) |
+| 435 | Partition List | [📁 Partition List](./Partition%20List) | [🔗 LeetCode](https://leetcode.com/problems/partition-list/) |
+| 436 | Pass The Pillow | [📁 Pass The Pillow](./Pass%20The%20Pillow) | [🔗 LeetCode](https://leetcode.com/problems/pass-the-pillow/) |
+| 437 | Patching Array | [📁 Patching Array](./Patching%20Array) | [🔗 LeetCode](https://leetcode.com/problems/patching-array/) |
+| 438 | Path With Maximum Probability | [📁 Path With Maximum Probability](./Path%20With%20Maximum%20Probability) | [🔗 LeetCode](https://leetcode.com/problems/path-with-maximum-probability/) |
+| 439 | Patients With A Condition | [📁 Patients With A Condition](./Patients%20With%20A%20Condition) | [🔗 LeetCode](https://leetcode.com/problems/patients-with-a-condition/) |
+| 440 | Percentage Of Users Attended A Contest | [📁 Percentage Of Users Attended A Contest](./Percentage%20Of%20Users%20Attended%20A%20Contest) | [🔗 LeetCode](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) |
+| 441 | Permutation In String | [📁 Permutation In String](./Permutation%20In%20String) | [🔗 LeetCode](https://leetcode.com/problems/permutation-in-string/) |
+| 442 | Permutations | [📁 Permutations](./Permutations) | [🔗 LeetCode](https://leetcode.com/problems/permutations/) |
+| 443 | Plus One | [📁 Plus One](./Plus%20One) | [🔗 LeetCode](https://leetcode.com/problems/plus-one/) |
+| 444 | Powx N | [📁 Powx N](./Powx%20N) | [🔗 LeetCode](https://leetcode.com/problems/powx-n/) |
+| 445 | Primary Department For Each Employee | [📁 Primary Department For Each Employee](./Primary%20Department%20For%20Each%20Employee) | [🔗 LeetCode](https://leetcode.com/problems/primary-department-for-each-employee/) |
+| 446 | Prime Subtraction Operation | [📁 Prime Subtraction Operation](./Prime%20Subtraction%20Operation) | [🔗 LeetCode](https://leetcode.com/problems/prime-subtraction-operation/) |
+| 447 | Product Of Array Except Self | [📁 Product Of Array Except Self](./Product%20Of%20Array%20Except%20Self) | [🔗 LeetCode](https://leetcode.com/problems/product-of-array-except-self/) |
+| 448 | Product Of The Last K Numbers | [📁 Product Of The Last K Numbers](./Product%20Of%20The%20Last%20K%20Numbers) | [🔗 LeetCode](https://leetcode.com/problems/product-of-the-last-k-numbers/) |
+| 449 | Product Price At A Given Date | [📁 Product Price At A Given Date](./Product%20Price%20At%20A%20Given%20Date) | [🔗 LeetCode](https://leetcode.com/problems/product-price-at-a-given-date/) |
+| 450 | Product Sales Analysis I | [📁 Product Sales Analysis I](./Product%20Sales%20Analysis%20I) | [🔗 LeetCode](https://leetcode.com/problems/product-sales-analysis-i/) |
+| 451 | Product Sales Analysis Iii | [📁 Product Sales Analysis Iii](./Product%20Sales%20Analysis%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/product-sales-analysis-iii/) |
+| 452 | Project Employees I | [📁 Project Employees I](./Project%20Employees%20I) | [🔗 LeetCode](https://leetcode.com/problems/project-employees-i/) |
+| 453 | Push Dominoes | [📁 Push Dominoes](./Push%20Dominoes) | [🔗 LeetCode](https://leetcode.com/problems/push-dominoes/) |
+| 454 | Put Marbles In Bags | [📁 Put Marbles In Bags](./Put%20Marbles%20In%20Bags) | [🔗 LeetCode](https://leetcode.com/problems/put-marbles-in-bags/) |
+| 455 | Queries Quality And Percentage | [📁 Queries Quality And Percentage](./Queries%20Quality%20And%20Percentage) | [🔗 LeetCode](https://leetcode.com/problems/queries-quality-and-percentage/) |
+| 456 | Rabbits In Forest | [📁 Rabbits In Forest](./Rabbits%20In%20Forest) | [🔗 LeetCode](https://leetcode.com/problems/rabbits-in-forest/) |
+| 457 | Range Sum Of Sorted Subarray Sums | [📁 Range Sum Of Sorted Subarray Sums](./Range%20Sum%20Of%20Sorted%20Subarray%20Sums) | [🔗 LeetCode](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) |
+| 458 | Rank Scores | [📁 Rank Scores](./Rank%20Scores) | [🔗 LeetCode](https://leetcode.com/problems/rank-scores/) |
+| 459 | Rank Transform Of An Array | [📁 Rank Transform Of An Array](./Rank%20Transform%20Of%20An%20Array) | [🔗 LeetCode](https://leetcode.com/problems/rank-transform-of-an-array/) |
+| 460 | Ransom Note | [📁 Ransom Note](./Ransom%20Note) | [🔗 LeetCode](https://leetcode.com/problems/ransom-note/) |
+| 461 | Rearrange Array Elements By Sign | [📁 Rearrange Array Elements By Sign](./Rearrange%20Array%20Elements%20By%20Sign) | [🔗 LeetCode](https://leetcode.com/problems/rearrange-array-elements-by-sign/) |
+| 462 | Recover A Tree From Preorder Traversal | [📁 Recover A Tree From Preorder Traversal](./Recover%20A%20Tree%20From%20Preorder%20Traversal) | [🔗 LeetCode](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) |
+| 463 | Recyclable And Low Fat Products | [📁 Recyclable And Low Fat Products](./Recyclable%20And%20Low%20Fat%20Products) | [🔗 LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products/) |
+| 464 | Redundant Connection | [📁 Redundant Connection](./Redundant%20Connection) | [🔗 LeetCode](https://leetcode.com/problems/redundant-connection/) |
+| 465 | Regions Cut By Slashes | [📁 Regions Cut By Slashes](./Regions%20Cut%20By%20Slashes) | [🔗 LeetCode](https://leetcode.com/problems/regions-cut-by-slashes/) |
+| 466 | Relative Sort Array | [📁 Relative Sort Array](./Relative%20Sort%20Array) | [🔗 LeetCode](https://leetcode.com/problems/relative-sort-array/) |
+| 467 | Remove All Occurrences Of A Substring | [📁 Remove All Occurrences Of A Substring](./Remove%20All%20Occurrences%20Of%20A%20Substring) | [🔗 LeetCode](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) |
+| 468 | Remove Duplicates From Sorted Array | [📁 Remove Duplicates From Sorted Array](./Remove%20Duplicates%20From%20Sorted%20Array) | [🔗 LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 469 | Remove Duplicates From Sorted Array Ii | [📁 Remove Duplicates From Sorted Array Ii](./Remove%20Duplicates%20From%20Sorted%20Array%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |
+| 470 | Remove Duplicates From Sorted List | [📁 Remove Duplicates From Sorted List](./Remove%20Duplicates%20From%20Sorted%20List) | [🔗 LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
+| 471 | Remove Duplicates From Sorted List Ii | [📁 Remove Duplicates From Sorted List Ii](./Remove%20Duplicates%20From%20Sorted%20List%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |
+| 472 | Remove Element | [📁 Remove Element](./Remove%20Element) | [🔗 LeetCode](https://leetcode.com/problems/remove-element/) |
+| 473 | Remove Max Number Of Edges To Keep Graph Fully Traversable | [📁 Remove Max Number Of Edges To Keep Graph Fully Traversable](./Remove%20Max%20Number%20Of%20Edges%20To%20Keep%20Graph%20Fully%20Traversable) | [🔗 LeetCode](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) |
+| 474 | Remove Nth Node From End Of List | [📁 Remove Nth Node From End Of List](./Remove%20Nth%20Node%20From%20End%20Of%20List) | [🔗 LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
+| 475 | Remove Sub Folders From The Filesystem | [📁 Remove Sub Folders From The Filesystem](./Remove%20Sub%20Folders%20From%20The%20Filesystem) | [🔗 LeetCode](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) |
+| 476 | Rename Columns | [📁 Rename Columns](./Rename%20Columns) | [🔗 LeetCode](https://leetcode.com/problems/rename-columns/) |
+| 477 | Repeated Substring Pattern | [📁 Repeated Substring Pattern](./Repeated%20Substring%20Pattern) | [🔗 LeetCode](https://leetcode.com/problems/repeated-substring-pattern/) |
+| 478 | Replace Employee Id With The Unique Identifier | [📁 Replace Employee Id With The Unique Identifier](./Replace%20Employee%20Id%20With%20The%20Unique%20Identifier) | [🔗 LeetCode](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) |
+| 479 | Replace Words | [📁 Replace Words](./Replace%20Words) | [🔗 LeetCode](https://leetcode.com/problems/replace-words/) |
+| 480 | Reschedule Meetings for Maximum Free Time I | [📁 Reschedule Meetings for Maximum Free Time I](./Reschedule%20Meetings%20for%20Maximum%20Free%20Time%20I) | [🔗 LeetCode](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/) |
+| 481 | Restaurant Growth | [📁 Restaurant Growth](./Restaurant%20Growth) | [🔗 LeetCode](https://leetcode.com/problems/restaurant-growth/) |
+| 482 | Reverse Integer | [📁 Reverse Integer](./Reverse%20Integer) | [🔗 LeetCode](https://leetcode.com/problems/reverse-integer/) |
+| 483 | Reverse Linked List | [📁 Reverse Linked List](./Reverse%20Linked%20List) | [🔗 LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
+| 484 | Reverse Odd Levels Of Binary Tree | [📁 Reverse Odd Levels Of Binary Tree](./Reverse%20Odd%20Levels%20Of%20Binary%20Tree) | [🔗 LeetCode](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) |
+| 485 | Reverse String | [📁 Reverse String](./Reverse%20String) | [🔗 LeetCode](https://leetcode.com/problems/reverse-string/) |
+| 486 | Reverse Substrings Between Each Pair Of Parentheses | [📁 Reverse Substrings Between Each Pair Of Parentheses](./Reverse%20Substrings%20Between%20Each%20Pair%20Of%20Parentheses) | [🔗 LeetCode](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) |
+| 487 | Reverse Words In A String | [📁 Reverse Words In A String](./Reverse%20Words%20In%20A%20String) | [🔗 LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) |
+| 488 | Rising Temperature | [📁 Rising Temperature](./Rising%20Temperature) | [🔗 LeetCode](https://leetcode.com/problems/rising-temperature/) |
+| 489 | Robot Collisions | [📁 Robot Collisions](./Robot%20Collisions) | [🔗 LeetCode](https://leetcode.com/problems/robot-collisions/) |
+| 490 | Roman To Integer | [📁 Roman To Integer](./Roman%20To%20Integer) | [🔗 LeetCode](https://leetcode.com/problems/roman-to-integer/) |
+| 491 | Rotate Array | [📁 Rotate Array](./Rotate%20Array) | [🔗 LeetCode](https://leetcode.com/problems/rotate-array/) |
+| 492 | Rotate List | [📁 Rotate List](./Rotate%20List) | [🔗 LeetCode](https://leetcode.com/problems/rotate-list/) |
+| 493 | Rotate String | [📁 Rotate String](./Rotate%20String) | [🔗 LeetCode](https://leetcode.com/problems/rotate-string/) |
+| 494 | Rotating The Box | [📁 Rotating The Box](./Rotating%20The%20Box) | [🔗 LeetCode](https://leetcode.com/problems/rotating-the-box/) |
+| 495 | Sales Analysis Iii | [📁 Sales Analysis Iii](./Sales%20Analysis%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/sales-analysis-iii/) |
+| 496 | Sales Person | [📁 Sales Person](./Sales%20Person) | [🔗 LeetCode](https://leetcode.com/problems/sales-person/) |
+| 497 | Same Tree | [📁 Same Tree](./Same%20Tree) | [🔗 LeetCode](https://leetcode.com/problems/same-tree/) |
+| 498 | Score Of A String | [📁 Score Of A String](./Score%20Of%20A%20String) | [🔗 LeetCode](https://leetcode.com/problems/score-of-a-string/) |
+| 499 | Search A 2d Matrix | [📁 Search A 2d Matrix](./Search%20A%202d%20Matrix) | [🔗 LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) |
+| 500 | Search In Rotated Sorted Array | [📁 Search In Rotated Sorted Array](./Search%20In%20Rotated%20Sorted%20Array) | [🔗 LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 501 | Search In Rotated Sorted Array Ii | [📁 Search In Rotated Sorted Array Ii](./Search%20In%20Rotated%20Sorted%20Array%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |
+| 502 | Search Insert Position | [📁 Search Insert Position](./Search%20Insert%20Position) | [🔗 LeetCode](https://leetcode.com/problems/search-insert-position/) |
+| 503 | Second Highest Salary | [📁 Second Highest Salary](./Second%20Highest%20Salary) | [🔗 LeetCode](https://leetcode.com/problems/second-highest-salary/) |
+| 504 | Second Minimum Time To Reach Destination | [📁 Second Minimum Time To Reach Destination](./Second%20Minimum%20Time%20To%20Reach%20Destination) | [🔗 LeetCode](https://leetcode.com/problems/second-minimum-time-to-reach-destination/) |
+| 505 | Select Data | [📁 Select Data](./Select%20Data) | [🔗 LeetCode](https://leetcode.com/problems/select-data/) |
+| 506 | Sentence Similarity Iii | [📁 Sentence Similarity Iii](./Sentence%20Similarity%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/sentence-similarity-iii/) |
+| 507 | Separate Black And White Balls | [📁 Separate Black And White Balls](./Separate%20Black%20And%20White%20Balls) | [🔗 LeetCode](https://leetcode.com/problems/separate-black-and-white-balls/) |
+| 508 | Set Matrix Zeroes | [📁 Set Matrix Zeroes](./Set%20Matrix%20Zeroes) | [🔗 LeetCode](https://leetcode.com/problems/set-matrix-zeroes/) |
+| 509 | Shifting Letters Ii | [📁 Shifting Letters Ii](./Shifting%20Letters%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/shifting-letters-ii/) |
+| 510 | Shortest Common Supersequence | [📁 Shortest Common Supersequence](./Shortest%20Common%20Supersequence) | [🔗 LeetCode](https://leetcode.com/problems/shortest-common-supersequence/) |
+| 511 | Shortest Distance After Road Addition Queries I | [📁 Shortest Distance After Road Addition Queries I](./Shortest%20Distance%20After%20Road%20Addition%20Queries%20I) | [🔗 LeetCode](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/) |
+| 512 | Shortest Palindrome | [📁 Shortest Palindrome](./Shortest%20Palindrome) | [🔗 LeetCode](https://leetcode.com/problems/shortest-palindrome/) |
+| 513 | Shortest Subarray To Be Removed To Make Array Sorted | [📁 Shortest Subarray To Be Removed To Make Array Sorted](./Shortest%20Subarray%20To%20Be%20Removed%20To%20Make%20Array%20Sorted) | [🔗 LeetCode](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) |
+| 514 | Shortest Subarray With Or At Least K Ii | [📁 Shortest Subarray With Or At Least K Ii](./Shortest%20Subarray%20With%20Or%20At%20Least%20K%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/) |
+| 515 | Shortest Subarray With Sum At Least K | [📁 Shortest Subarray With Sum At Least K](./Shortest%20Subarray%20With%20Sum%20At%20Least%20K) | [🔗 LeetCode](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) |
+| 516 | Simplify Path | [📁 Simplify Path](./Simplify%20Path) | [🔗 LeetCode](https://leetcode.com/problems/simplify-path/) |
+| 517 | Single Number | [📁 Single Number](./Single%20Number) | [🔗 LeetCode](https://leetcode.com/problems/single-number/) |
+| 518 | Single Number Iii | [📁 Single Number Iii](./Single%20Number%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/single-number-iii/) |
+| 519 | Sliding Puzzle | [📁 Sliding Puzzle](./Sliding%20Puzzle) | [🔗 LeetCode](https://leetcode.com/problems/sliding-puzzle/) |
+| 520 | Sliding Window Maximum | [📁 Sliding Window Maximum](./Sliding%20Window%20Maximum) | [🔗 LeetCode](https://leetcode.com/problems/sliding-window-maximum/) |
+| 521 | Smallest Range Covering Elements From K Lists | [📁 Smallest Range Covering Elements From K Lists](./Smallest%20Range%20Covering%20Elements%20From%20K%20Lists) | [🔗 LeetCode](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) |
+| 522 | Snakes and Ladders | [📁 Snakes and Ladders](./Snakes%20and%20Ladders) | [🔗 LeetCode](https://leetcode.com/problems/snakes-and-ladders/) |
+| 523 | Solving Questions With Brainpower | [📁 Solving Questions With Brainpower](./Solving%20Questions%20With%20Brainpower) | [🔗 LeetCode](https://leetcode.com/problems/solving-questions-with-brainpower/) |
+| 524 | Sort An Array | [📁 Sort An Array](./Sort%20An%20Array) | [🔗 LeetCode](https://leetcode.com/problems/sort-an-array/) |
+| 525 | Sort Array By Increasing Frequency | [📁 Sort Array By Increasing Frequency](./Sort%20Array%20By%20Increasing%20Frequency) | [🔗 LeetCode](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |
+| 526 | Sort Colors | [📁 Sort Colors](./Sort%20Colors) | [🔗 LeetCode](https://leetcode.com/problems/sort-colors/) |
+| 527 | Sort The Jumbled Numbers | [📁 Sort The Jumbled Numbers](./Sort%20The%20Jumbled%20Numbers) | [🔗 LeetCode](https://leetcode.com/problems/sort-the-jumbled-numbers/) |
+| 528 | Sort The People | [📁 Sort The People](./Sort%20The%20People) | [🔗 LeetCode](https://leetcode.com/problems/sort-the-people/) |
+| 529 | Special Array I | [📁 Special Array I](./Special%20Array%20I) | [🔗 LeetCode](https://leetcode.com/problems/special-array-i/) |
+| 530 | Special Array Ii | [📁 Special Array Ii](./Special%20Array%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/special-array-ii/) |
+| 531 | Special Array With X Elements Greater Than Or Equal X | [📁 Special Array With X Elements Greater Than Or Equal X](./Special%20Array%20With%20X%20Elements%20Greater%20Than%20Or%20Equal%20X) | [🔗 LeetCode](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) |
+| 532 | Spiral Matrix Iii | [📁 Spiral Matrix Iii](./Spiral%20Matrix%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/spiral-matrix-iii/) |
+| 533 | Spiral Matrix Iv | [📁 Spiral Matrix Iv](./Spiral%20Matrix%20Iv) | [🔗 LeetCode](https://leetcode.com/problems/spiral-matrix-iv/) |
+| 534 | Split A String Into The Max Number Of Unique Substrings | [📁 Split A String Into The Max Number Of Unique Substrings](./Split%20A%20String%20Into%20The%20Max%20Number%20Of%20Unique%20Substrings) | [🔗 LeetCode](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) |
+| 535 | Split Linked List In Parts | [📁 Split Linked List In Parts](./Split%20Linked%20List%20In%20Parts) | [🔗 LeetCode](https://leetcode.com/problems/split-linked-list-in-parts/) |
+| 536 | Sqrtx | [📁 Sqrtx](./Sqrtx) | [🔗 LeetCode](https://leetcode.com/problems/sqrtx/) |
+| 537 | Step By Step Directions From A Binary Tree Node To Another | [📁 Step By Step Directions From A Binary Tree Node To Another](./Step%20By%20Step%20Directions%20From%20A%20Binary%20Tree%20Node%20To%20Another) | [🔗 LeetCode](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) |
+| 538 | Stone Game Ii | [📁 Stone Game Ii](./Stone%20Game%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/stone-game-ii/) |
+| 539 | Strange Printer | [📁 Strange Printer](./Strange%20Printer) | [🔗 LeetCode](https://leetcode.com/problems/strange-printer/) |
+| 540 | String Compression Iii | [📁 String Compression Iii](./String%20Compression%20Iii) | [🔗 LeetCode](https://leetcode.com/problems/string-compression-iii/) |
+| 541 | String Matching In An Array | [📁 String Matching In An Array](./String%20Matching%20In%20An%20Array) | [🔗 LeetCode](https://leetcode.com/problems/string-matching-in-an-array/) |
+| 542 | String To Integer Atoi | [📁 String To Integer Atoi](./String%20To%20Integer%20Atoi) | [🔗 LeetCode](https://leetcode.com/problems/string-to-integer-atoi/) |
+| 543 | Students And Examinations | [📁 Students And Examinations](./Students%20And%20Examinations) | [🔗 LeetCode](https://leetcode.com/problems/students-and-examinations/) |
+| 544 | Subarray Sums Divisible By K | [📁 Subarray Sums Divisible By K](./Subarray%20Sums%20Divisible%20By%20K) | [🔗 LeetCode](https://leetcode.com/problems/subarray-sums-divisible-by-k/) |
+| 545 | Subsets | [📁 Subsets](./Subsets) | [🔗 LeetCode](https://leetcode.com/problems/subsets/) |
+| 546 | Substring With Concatenation Of All Words | [📁 Substring With Concatenation Of All Words](./Substring%20With%20Concatenation%20Of%20All%20Words) | [🔗 LeetCode](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |
+| 547 | Sum Of All Subset Xor Totals | [📁 Sum Of All Subset Xor Totals](./Sum%20Of%20All%20Subset%20Xor%20Totals) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) |
+| 548 | Sum Of Digits Of String After Convert | [📁 Sum Of Digits Of String After Convert](./Sum%20Of%20Digits%20Of%20String%20After%20Convert) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) |
+| 549 | Sum Of Prefix Scores Of Strings | [📁 Sum Of Prefix Scores Of Strings](./Sum%20Of%20Prefix%20Scores%20Of%20Strings) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) |
+| 550 | Sum Of Square Numbers | [📁 Sum Of Square Numbers](./Sum%20Of%20Square%20Numbers) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-square-numbers/) |
+| 551 | Sum of k-Mirror Numbers | [📁 Sum of k-Mirror Numbers](./Sum%20of%20k-Mirror%20Numbers) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-k-mirror-numbers/) |
+| 552 | Summary Ranges | [📁 Summary Ranges](./Summary%20Ranges) | [🔗 LeetCode](https://leetcode.com/problems/summary-ranges/) |
+| 553 | Swap Nodes In Pairs | [📁 Swap Nodes In Pairs](./Swap%20Nodes%20In%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) |
+| 554 | Swap Salary | [📁 Swap Salary](./Swap%20Salary) | [🔗 LeetCode](https://leetcode.com/problems/swap-salary/) |
+| 555 | Take Gifts From The Richest Pile | [📁 Take Gifts From The Richest Pile](./Take%20Gifts%20From%20The%20Richest%20Pile) | [🔗 LeetCode](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) |
+| 556 | Take K Of Each Character From Left And Right | [📁 Take K Of Each Character From Left And Right](./Take%20K%20Of%20Each%20Character%20From%20Left%20And%20Right) | [🔗 LeetCode](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/) |
+| 557 | Target Sum | [📁 Target Sum](./Target%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/target-sum/) |
+| 558 | The K Th Lexicographical String Of All Happy Strings Of Length N | [📁 The K Th Lexicographical String Of All Happy Strings Of Length N](./The%20K%20Th%20Lexicographical%20String%20Of%20All%20Happy%20Strings%20Of%20Length%20N) | [🔗 LeetCode](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) |
+| 559 | The Latest Login In 2020 | [📁 The Latest Login In 2020](./The%20Latest%20Login%20In%202020) | [🔗 LeetCode](https://leetcode.com/problems/the-latest-login-in-2020/) |
+| 560 | The Number Of Employees Which Report To Each Employee | [📁 The Number Of Employees Which Report To Each Employee](./The%20Number%20Of%20Employees%20Which%20Report%20To%20Each%20Employee) | [🔗 LeetCode](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) |
+| 561 | The Number Of The Smallest Unoccupied Chair | [📁 The Number Of The Smallest Unoccupied Chair](./The%20Number%20Of%20The%20Smallest%20Unoccupied%20Chair) | [🔗 LeetCode](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) |
+| 562 | Three Consecutive Odds | [📁 Three Consecutive Odds](./Three%20Consecutive%20Odds) | [🔗 LeetCode](https://leetcode.com/problems/three-consecutive-odds/) |
+| 563 | Top Travellers | [📁 Top Travellers](./Top%20Travellers) | [🔗 LeetCode](https://leetcode.com/problems/top-travellers/) |
+| 564 | Total Characters In String After Transformations I | [📁 Total Characters In String After Transformations I](./Total%20Characters%20In%20String%20After%20Transformations%20I) | [🔗 LeetCode](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) |
+| 565 | Total Characters in String After Transformations II | [📁 Total Characters in String After Transformations II](./Total%20Characters%20in%20String%20After%20Transformations%20II) | [🔗 LeetCode](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) |
+| 566 | Trapping Rain Water Ii | [📁 Trapping Rain Water Ii](./Trapping%20Rain%20Water%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/trapping-rain-water-ii/) |
+| 567 | Tree Node | [📁 Tree Node](./Tree%20Node) | [🔗 LeetCode](https://leetcode.com/problems/tree-node/) |
+| 568 | Triangle | [📁 Triangle](./Triangle) | [🔗 LeetCode](https://leetcode.com/problems/triangle/) |
+| 569 | Triangle Judgement | [📁 Triangle Judgement](./Triangle%20Judgement) | [🔗 LeetCode](https://leetcode.com/problems/triangle-judgement/) |
+| 570 | Trips And Users | [📁 Trips And Users](./Trips%20And%20Users) | [🔗 LeetCode](https://leetcode.com/problems/trips-and-users/) |
+| 571 | Tuple With Same Product | [📁 Tuple With Same Product](./Tuple%20With%20Same%20Product) | [🔗 LeetCode](https://leetcode.com/problems/tuple-with-same-product/) |
+| 572 | Two Best Non Overlapping Events | [📁 Two Best Non Overlapping Events](./Two%20Best%20Non%20Overlapping%20Events) | [🔗 LeetCode](https://leetcode.com/problems/two-best-non-overlapping-events/) |
+| 573 | Two Sum | [📁 Two Sum](./Two%20Sum) | [🔗 LeetCode](https://leetcode.com/problems/two-sum/) |
+| 574 | Two Sum Ii Input Array Is Sorted | [📁 Two Sum Ii Input Array Is Sorted](./Two%20Sum%20Ii%20Input%20Array%20Is%20Sorted) | [🔗 LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 575 | Type of Triangle | [📁 Type of Triangle](./Type%20of%20Triangle) | [🔗 LeetCode](https://leetcode.com/problems/type-of-triangle/) |
+| 576 | Ugly Number Ii | [📁 Ugly Number Ii](./Ugly%20Number%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/ugly-number-ii/) |
+| 577 | Uncommon Words From Two Sentences | [📁 Uncommon Words From Two Sentences](./Uncommon%20Words%20From%20Two%20Sentences) | [🔗 LeetCode](https://leetcode.com/problems/uncommon-words-from-two-sentences/) |
+| 578 | Unique Length 3 Palindromic Subsequences | [📁 Unique Length 3 Palindromic Subsequences](./Unique%20Length%203%20Palindromic%20Subsequences) | [🔗 LeetCode](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) |
+| 579 | Unique Paths | [📁 Unique Paths](./Unique%20Paths) | [🔗 LeetCode](https://leetcode.com/problems/unique-paths/) |
+| 580 | Unique Paths Ii | [📁 Unique Paths Ii](./Unique%20Paths%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/unique-paths-ii/) |
+| 581 | User Activity For The Past 30 Days I | [📁 User Activity For The Past 30 Days I](./User%20Activity%20For%20The%20Past%2030%20Days%20I) | [🔗 LeetCode](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) |
+| 582 | Using a Robot to Print the Lexicographically Smallest String | [📁 Using a Robot to Print the Lexicographically Smallest String](./Using%20a%20Robot%20to%20Print%20the%20Lexicographically%20Smallest%20String) | [🔗 LeetCode](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) |
+| 583 | Valid Anagram | [📁 Valid Anagram](./Valid%20Anagram) | [🔗 LeetCode](https://leetcode.com/problems/valid-anagram/) |
+| 584 | Valid Arrangement Of Pairs | [📁 Valid Arrangement Of Pairs](./Valid%20Arrangement%20Of%20Pairs) | [🔗 LeetCode](https://leetcode.com/problems/valid-arrangement-of-pairs/) |
+| 585 | Valid Palindrome | [📁 Valid Palindrome](./Valid%20Palindrome) | [🔗 LeetCode](https://leetcode.com/problems/valid-palindrome/) |
+| 586 | Valid Parentheses | [📁 Valid Parentheses](./Valid%20Parentheses) | [🔗 LeetCode](https://leetcode.com/problems/valid-parentheses/) |
+| 587 | Valid Sudoku | [📁 Valid Sudoku](./Valid%20Sudoku) | [🔗 LeetCode](https://leetcode.com/problems/valid-sudoku/) |
+| 588 | Valid Word | [📁 Valid Word](./Valid%20Word) | [🔗 LeetCode](https://leetcode.com/problems/valid-word/) |
+| 589 | Walking Robot Simulation | [📁 Walking Robot Simulation](./Walking%20Robot%20Simulation) | [🔗 LeetCode](https://leetcode.com/problems/walking-robot-simulation/) |
+| 590 | Water Bottles | [📁 Water Bottles](./Water%20Bottles) | [🔗 LeetCode](https://leetcode.com/problems/water-bottles/) |
+| 591 | Word Break | [📁 Word Break](./Word%20Break) | [🔗 LeetCode](https://leetcode.com/problems/word-break/) |
+| 592 | Word Break Ii | [📁 Word Break Ii](./Word%20Break%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/word-break-ii/) |
+| 593 | Word Pattern | [📁 Word Pattern](./Word%20Pattern) | [🔗 LeetCode](https://leetcode.com/problems/word-pattern/) |
+| 594 | Word Subsets | [📁 Word Subsets](./Word%20Subsets) | [🔗 LeetCode](https://leetcode.com/problems/word-subsets/) |
+| 595 | Xor Queries Of A Subarray | [📁 Xor Queries Of A Subarray](./Xor%20Queries%20Of%20A%20Subarray) | [🔗 LeetCode](https://leetcode.com/problems/xor-queries-of-a-subarray/) |
+| 596 | Zero Array Transformation I | [📁 Zero Array Transformation I](./Zero%20Array%20Transformation%20I) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-i/) |
+| 597 | Zero Array Transformation III | [📁 Zero Array Transformation III](./Zero%20Array%20Transformation%20III) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-iii/) |
+| 598 | Zero Array Transformation Ii | [📁 Zero Array Transformation Ii](./Zero%20Array%20Transformation%20Ii) | [🔗 LeetCode](https://leetcode.com/problems/zero-array-transformation-ii/) |
+| 599 | Zigzag Conversion | [📁 Zigzag Conversion](./Zigzag%20Conversion) | [🔗 LeetCode](https://leetcode.com/problems/zigzag-conversion/) |
